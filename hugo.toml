@@ -1,0 +1,33 @@
+baseURL = "/"
+title = "Glory in Christ"
+theme = "hugo-bearblog"
+
+[params]
+  customCSS = ["css/custom.css"]
+
+[params.homeInfoParams]
+  Title = "Glory in Christ"
+  Content = """
+A journey of faith, transformation, and truth in Jesus Christ.
+Testimony • Scripture • Encouragement for seekers and believers.
+"""
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
