@@ -5,7 +5,7 @@ title: "Born Muslim – Found Christ"
 
 # Born Muslim – Found Christ
 
-<div class="about-card">
+<div>
 
 “Even though I walk through the valley of the shadow of death,
 I will fear no evil,
