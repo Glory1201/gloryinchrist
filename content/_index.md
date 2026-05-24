@@ -6,12 +6,13 @@ title: "Born Muslim – Found Christ"
 
 <div class="about-card">
 
-Hi, I'm Glory. 
+“Even though I walk through the valley of the shadow of death,<br>
+I will fear no evil,<br>
+for you are with me;<br>
+your rod and your staff,<br>
+they comfort me.”
 
-If you’re questioning, doubting, or quietly seeking — you’re not alone.
-
-I’ve come to know the grace of Christ — forgiveness I don’t deserve, yet He gives freely.
-
-This space shares my journey of truth, grace, and quiet courage — one step at a time.
+<br>
+Psalm 23:4 (ESV)
 
 </div>
