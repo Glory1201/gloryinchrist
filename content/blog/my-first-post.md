@@ -2,7 +2,7 @@
 title = "My First Post"
 date = "2026-05-14T22:11:29+01:00"
 description = "My first blog post on Glory in Christ."
-tags = []
+tags = ["Testing"]
 draft = false
 +++
 
