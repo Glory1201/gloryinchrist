@@ -54,6 +54,19 @@ img.avatar {
   box-shadow: 0 4px 20px rgba(0,0,0,0.2);
 }
 
+/* Make ALL text inside the card black */
+.about-card p,
+.about-card h1,
+.about-card h2,
+.about-card h3,
+.about-card h4,
+.about-card h5,
+.about-card h6,
+.about-card a,
+.about-card span,
+.about-card li {
+  color: black !important;
+}
 /* ============================
    NAVIGATION (TOP RIGHT)
    ============================ */
