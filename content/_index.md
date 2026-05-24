@@ -1,12 +1,13 @@
+
 ---
 title: "Born Muslim – Found Christ"
 ---
 
 # Born Muslim – Found Christ
 
-<div class="about-card" style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div class="about-card">
 
-  <div>
+  <div style="display: inline-block; vertical-align: top;">
     <p>“Even though I walk through the valley of the shadow of death,</p>
     <p>I will fear no evil,</p>
     <p>for you are with me;</p>
@@ -14,8 +15,9 @@ title: "Born Muslim – Found Christ"
     <p>they comfort me.”</p>
   </div>
 
-  <div style="text-align: right; white-space: nowrap; margin-left: 20px;">
+  <div style="display: inline-block; vertical-align: top; text-align: right; margin-left: 20px; white-space: nowrap;">
     <p><strong>Psalm 23:4 (ESV)</strong></p>
   </div>
 
 </div>
+
