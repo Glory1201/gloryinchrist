@@ -19,9 +19,8 @@ As a born again Christian, I now rest in the truth that God (YHWH) is always in 
 
 I pray that everyone who finds this space is blessed by it — that my testimony reveals God’s glory, grace, and love, and that it leads, God willing, many to Christ.<br><br>
 
-<p style="text-align:center; font-size:1.2rem; margin-top:2rem;">
-  <strong>In Jesus’ name, Amen.</strong>
-</p>
+<strong>In Jesus’ name, Amen.</strong>
+
 
 
 </div>
