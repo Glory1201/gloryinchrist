@@ -6,7 +6,7 @@ draft = false
 
 <div class="about-card">
   
-Disclaimer<br>
+
 This blog contains parts of my story that I’ve never spoken about publicly before. Although I won’t be sharing my full name, I know that for any friends or family reading this, some of what I write may be new to you. Nothing here is shared to shock, blame, or expose anyone. It is simply my honest journey — told with transparency and, I hope, with grace.<br><br>
 
 I ask that you read with understanding, knowing that every chapter — the good, the bad, and the painfully ugly — is part of my testimony. My only purpose in sharing it is to glorify God and to shine a light on the One who redeemed my life and gave me a new beginning.<br><br>
@@ -19,7 +19,10 @@ As a born again Christian, I now rest in the truth that God (YHWH) is always in 
 
 I pray that everyone who finds this space is blessed by it — that my testimony reveals God’s glory, grace, and love, and that it leads, God willing, many to Christ.<br><br>
 
-In Jesus’ name, Amen.
+<p style="text-align:center; font-size:1.2rem; margin-top:2rem;">
+  <strong>In Jesus’ name, Amen.</strong>
+</p>
+
 
 </div>
 
