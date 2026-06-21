@@ -16,8 +16,7 @@ In light of some concerning behaviour from a minority who wish to see sharia inf
 
 As a born‑again Christian, I now rest in the truth that God (YHWH) is always in control no matter how dark the world becomes. Our calling as Christians has never changed: to spread the Good News, which is ultimately the purpose of this blog — God will do the rest! <br><br>
 
-I pray that everyone who finds this space is blessed by it — that my testimony reveals God’s glory, grace and love and that it leads, God willing, many to Christ.<br><br>
-
+I pray that everyone who finds this space is blessed by it — that my testimony reveals God’s glory, grace and love and that it leads, God willing, many to Christ.<br>
 </div>
 
 **In Jesus’ name, Amen.**
