@@ -1,8 +1,9 @@
----
-title: "Disclaimer"
-date: 2026-06-21T12:41:00Z
-draft: false
----
++++
+title = "Disclaimer"
+date = "2026-06-21T13:00:00+01:00"
+draft = false
++++
+
 
 Disclaimer<br>
 This blog contains parts of my story that I’ve never spoken about publicly before. Although I won’t be sharing my full name, I know that for any friends or family reading this, some of what I write may be new to you. Nothing here is shared to shock, blame, or expose anyone. It is simply my honest journey — told with transparency and, I hope, with grace.<br><br>
