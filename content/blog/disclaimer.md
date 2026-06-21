@@ -4,7 +4,8 @@ date = "2026-06-21T13:00:00+01:00"
 draft = false
 +++
 
-
+<div class="about-card">
+  
 Disclaimer<br>
 This blog contains parts of my story that I’ve never spoken about publicly before. Although I won’t be sharing my full name, I know that for any friends or family reading this, some of what I write may be new to you. Nothing here is shared to shock, blame, or expose anyone. It is simply my honest journey — told with transparency and, I hope, with grace.<br><br>
 
@@ -19,3 +20,6 @@ As a born again Christian, I now rest in the truth that God (YHWH) is always in 
 I pray that everyone who finds this space is blessed by it — that my testimony reveals God’s glory, grace, and love, and that it leads, God willing, many to Christ.<br><br>
 
 In Jesus’ name, Amen.
+
+</div>
+
