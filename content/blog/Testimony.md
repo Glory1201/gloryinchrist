@@ -1,7 +1,7 @@
 +++
 title = "My Testimony: From Islam to Christ"
 date = "2026-07-07T13:00:00+01:00"
-draft = true
+draft = false
 +++
 
 <div class="about-card">
