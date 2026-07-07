@@ -6,7 +6,7 @@ draft = false
 
 <div class="about-card">
 
-I recently watched a LIVE FREE podcast by Lakepointe Church featuring Dr Frank Turek. When engaging with people of different faiths he emphasised the importance of understanding your audience and the simplest way to do that is by asking either of the following questions:<br><br>
+I recently watched a LIVE FREE podcast by Lakepointe Church featuring Dr Frank Turek. When engaging with people of different faiths he emphasised the importance of understanding your audience and the simplest way to do that is by asking either of the following questions:<br>
 
 “If Christianity were true, would you become a Christian?”<br>
 or<br>
