@@ -43,6 +43,5 @@ Shariq Khan — his honesty and clarity offer a powerful perspective for anyone 
 <a href="https://www.christunderground.org/">Christ Underground</a><br><br>
 
 I hope their stories bless you the way they blessed me.
-
 </div>
 
