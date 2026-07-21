@@ -18,8 +18,8 @@ they comfort me.”
 <br><br>
 <br><br>
 
-If you’d like to get in touch, you can email me at  
-[hello@gloryinchrist.co.uk](mailto:hello@gloryinchrist.co.uk)
+If you’d like to get in touch, you can email me at [hello@gloryinchrist.co.uk](mailto:hello@gloryinchrist.co.uk)
+
 
 
 </div>
