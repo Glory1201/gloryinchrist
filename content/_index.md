@@ -15,6 +15,10 @@ they comfort me.”
 
 <strong>Psalm 23:4 (ESV)</strong>
 
+If you’d like to get in touch, you can email me at  
+[hello@gloryinchrist.co.uk](mailto:hello@gloryinchrist.co.uk)
+
+
 </div>
 
 
