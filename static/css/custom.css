@@ -66,7 +66,11 @@ img.avatar {
 .about-card li {
   color: black !important;
 }
-
+/* Indented unordered lists inside About Card */
+.about-card ul {
+  margin-left: 1.2rem !important;
+  padding-left: 1.2rem !important;
+}
 /* Allow bold text inside the card */
 .about-card strong,
 .about-card b {
