@@ -18,10 +18,14 @@ This explains why stories from Syriac and Arabic Infancy Gospels appear in the Q
 The Quran also blends biblical narratives: Moses’ marriage resembles Jacob’s story; Saul’s (Talut’s) river test mirrors Gideon’s; and Mary is called the “sister of Aaron” despite living over a thousand years later. These mix-ups show the Quran is retelling biblical stories through a patchwork of traditions rather than from Scripture. <br><br>
 <strong>The Islamic Dilemma</strong><br><br>
 Muslims are often taught from an early stage that the Bible is corrupted. This becomes the default response to almost any objection raised against Islam or the Quran. Yet the Quran repeatedly affirms the Torah and Gospel as true and preserved: <br><br>
--	“Let the people of the Gospel judge by what Allah has revealed therein” (Sura 5:47) <br>
--	“You have no ground to stand upon unless you uphold the Torah and the Gospel…” (Sura 5:68) <br>
--	“If you are in doubt… ask those who read the Scripture before you” (Sura 10:94) <br>
--	“None can change His words” (Sura 6:115) <br><br>
+<ul>
+  <li>“Let the people of the Gospel judge by what Allah has revealed therein” (Sura 5:47)</li>
+  <li>“You have no ground to stand upon unless you uphold the Torah and the Gospel…” (Sura 5:68)</li>
+  <li>“If you are in doubt… ask those who read the Scripture before you” (Sura 10:94)</li>
+  <li>“None can change His words” (Sura 6:115)</li>
+</ul>
+<br><br>
+
 Classical scholars such as al Tabari, Ibn Kathir, al Razi and al Qurtubi confirm these verses refer to the Scriptures available in Muhammad’s time — the same Scriptures Christians have today. Archaeology (Dead Sea Scrolls, Codex Sinaiticus) confirms their preservation long before Islam. <br><br>
 Thus the Islamic Dilemma: <br><br>
 If the earlier Scriptures are trustworthy, Islam is false. If they are corrupted, the Quran is false for affirming them. Either way, the Quran is false. <br><br>
