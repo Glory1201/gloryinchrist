@@ -31,6 +31,13 @@ Testimony • Scripture • Encouragement for seekers and believers.
     name = "Blog"
     url = "/blog/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 4
+
     
 [markup.goldmark.renderer]
 unsafe = true
