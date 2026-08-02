@@ -40,6 +40,11 @@ nav a {
 img.avatar {
   border: 2px solid red !important;
 }
+a {
+  text-decoration: underline !important;
+  color: #ffffff !important; /* or any colour you prefer */
+}
+
 
 /* ============================
    ABOUT PAGE CARD (OPTIONAL)
