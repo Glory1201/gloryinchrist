@@ -34,8 +34,7 @@ But as Christians we know there are many such statements — and one of the most
 If Zakir Naik objects by claiming these passages are corrupted, then the Quran is false for affirming the Bible as preserved revelation. If they are not corrupted, then Jesus’ act of forgiving sins is an unambiguous demonstration of divinity — by the Quran’s own standard, since it teaches that only Allah forgives sins (Suras 3:135; 4:110; 39:53). Either way, the objection collapses. <br><br>
 <strong>Invitation</strong><br><br>
 As Christians, we are called to proclaim the Gospel so that others may encounter the same grace and truth that transformed us. My intention is never to attack anyone’s beliefs, but to extend an invitation — an invitation to know the one true God and to discover the hope found in Him. My purpose is simply to be a vessel for that invitation. <br><br>
-“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.” <br>
-<strong>John 3:16–17 (ESV)</strong><br><br>
+“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.” - <strong>John 3:16–17 (ESV)</strong><br><br>
 Before I close, I want to leave you with two ex Muslims whose testimonies helped me navigate the emotional and spiritual challenges many Muslims face when they begin questioning their faith. <br><br>
 <strong>Nabeel Qureshi</strong> — though he is no longer with us, his books and teachings continue to change lives. <br>
 <a href="https://youtu.be/k0D8Uz4oQck?si=YNwRRm8FU-hVpyvG">Seeking Allah, Finding Jesus – Nabeel Qureshi</a><br>
