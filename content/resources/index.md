@@ -45,5 +45,4 @@ draft: false
 - [The God Who Speaks](https://www.youtube.com/watch?v=xuDCLqjYZZU&t=3101s)
 - [American Gospel: Christ Alone](https://www.youtube.com/watch?v=bUOLt99JnAk)
 - [Three Scientists on the Origins of Everything](https://youtu.be/JW9gcjpt89o?si=Asps7vFFf9A2Xwps)
-- **The Story of Everything (2026)** — Plex / Apple TV / Amazon Prime  
-  Trailer: https://youtu.be/pwL3ZKlwEoc?si=ILf6SYtOPMff7ZZk
+- [The Story of Everything (2026) Trailer](https://youtu.be/pwL3ZKlwEoc?si=ILf6SYtOPMff7ZZk)
