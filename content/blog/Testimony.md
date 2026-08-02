@@ -20,7 +20,7 @@ As a British born ex Muslim I have never had to fear that level of consequence. 
 
 It still took me over 40 years to understand God not as Allah as I had been taught but as Yahweh, the God revealed through Christ.<br><br>
 
-So where do I start?<br><br>
+<strong>So where do I start?</strong><br><br>
 
 To cut my 40 plus year story short, I was born after 12 years of my parents’ miscarriages — a long awaited daughter my dad named Glory. My early years held both joy and hardship: a traumatic birth for my mum who was extremely petite delivering a 9 pound baby; a serious burn accident as a toddler; and a mother quietly battling what would later be diagnosed as schizophrenia. Even so I grew up a sociable, people loving child with a natural warmth that often surprised those around me.<br>
 
@@ -44,13 +44,13 @@ My younger brother was the only member of my family who attended the church wedd
 
 God truly works in mysterious ways. Only a year earlier I had said I would never become a Christian yet here I am. Thank you Lord for being my Shepherd and guiding me onto the right path.<br><br>
 
-The Moral of My Story<br><br>
+<strong>The Moral of My Story</strong><br><br>
 
 There was purpose in my suffering and it was all part of God the Father’s plan. I was dead in my sins and needed to reach the bottom of the deep before I was ready to take God the Son Jesus’ hand and be lifted out. It is through God the Holy Spirit that my heart is continually being transformed even to this day.<br>
 
 Looking back I can now see how every part of my story was preparing me for the truth. With Christ the world finally makes sense — its beauty, its suffering and everything in between. If you have faced hardship remember this verse:<br><br>
 
-“Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance and endurance produces character and character produces hope and hope does not put us to shame because God’s love has been poured into our hearts through the Holy Spirit who has been given to us.” — Romans 5:3–5 (ESV)<br><br>
+“Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance and endurance produces character and character produces hope and hope does not put us to shame because God’s love has been poured into our hearts through the Holy Spirit who has been given to us.” — <strong>Romans 5:3–5 (ESV)</strong><br><br>
 
 In my upcoming posts I hope to share the slow and difficult process of dismantling Islam including the online resources that helped me through my journey.
 
