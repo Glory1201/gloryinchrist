@@ -71,6 +71,11 @@ a {
 .about-card li {
   color: black !important;
 }
+a {
+  text-decoration: underline !important;
+  color: #ffffff !important; /* or any colour you prefer */
+}
+
 /* Indented unordered lists inside About Card */
 .about-card ul {
   margin-left: 1.2rem !important;
