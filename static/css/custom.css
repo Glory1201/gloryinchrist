@@ -53,7 +53,6 @@ img.avatar {
   margin: 2rem auto;
   box-shadow: 0 4px 20px rgba(0,0,0,0.2);
 }
-
 /* Make ALL text inside the card black */
 .about-card p,
 .about-card h1,
@@ -67,6 +66,14 @@ img.avatar {
 .about-card li {
   color: black !important;
 }
+
+/* Allow bold text inside the card */
+.about-card strong,
+.about-card b {
+  color: black !important;
+  font-weight: bold;
+}
+
 /* ============================
    NAVIGATION (TOP RIGHT)
    ============================ */
