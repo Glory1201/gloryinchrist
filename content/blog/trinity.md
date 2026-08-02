@@ -1,6 +1,8 @@
 +++
 title = "Understanding the Trinity and Why it matters"
 date = 2026-08-02T13:45:00+01:00
+description = "A clear and simple explanation of the Trinity for Muslim readers, showing how Father, Son and Holy Spirit are one God and why this truth matters for salvation and knowing Jesus personally."
+tags = ["trinity", "christian-doctrine", "for-muslims"]
 draft = false
 +++
 
