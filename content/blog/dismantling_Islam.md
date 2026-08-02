@@ -16,7 +16,7 @@ Yet the Quran denies the crucifixion (Sura 4:157), offering no explanation for J
 Furthermore, when it comes to the name for Jesus in the Quran, even classical Muslim scholars acknowledge that “ʿĪsā” does not match the Hebrew Yeshua, Syriac Yeshuʿ, or Arabic Christian Yasūʿ. Studies of the Quran’s Syriac context suggest it reflects a Syriac influenced oral form circulating in Arabia at the time. <br><br>
 This explains why stories from Syriac and Arabic Infancy Gospels appear in the Quran — such as Jesus speaking from the cradle (Sura 19:29–30) and creating birds from clay (Sura 3:49). These apocryphal legends were popular in Arabia. The Quran even retains miracles that point to Jesus’ divine nature, especially creating life but adds “by Allah’s permission” to avoid theological conflict. <br><br>
 The Quran also blends biblical narratives: Moses’ marriage resembles Jacob’s story; Saul’s (Talut’s) river test mirrors Gideon’s; and Mary is called the “sister of Aaron” despite living over a thousand years later. These mix-ups show the Quran is retelling biblical stories through a patchwork of traditions rather than from Scripture. <br><br>
-<stong>The Islamic Dilemma</stong><br><br>
+<strong>The Islamic Dilemma</strong><br><br>
 Muslims are often taught from an early stage that the Bible is corrupted. This becomes the default response to almost any objection raised against Islam or the Quran. Yet the Quran repeatedly affirms the Torah and Gospel as true and preserved: <br><br>
 -	“Let the people of the Gospel judge by what Allah has revealed therein” (Sura 5:47) <br>
 -	“You have no ground to stand upon unless you uphold the Torah and the Gospel…” (Sura 5:68) <br>
