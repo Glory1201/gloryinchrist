@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+description: "A personal testimony of my journey from Islam to Christianity, shared to help Muslims and seekers understand how Jesus changed my life and why this site exists to guide others towards truth and hope in Christ."
 ---
 
 <div class="about-card">
