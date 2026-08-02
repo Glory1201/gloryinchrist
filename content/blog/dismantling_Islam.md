@@ -24,7 +24,7 @@ Muslims are often taught from an early stage that the Bible is corrupted. This b
   <li>“If you are in doubt… ask those who read the Scripture before you” (Sura 10:94)</li>
   <li>“None can change His words” (Sura 6:115)</li>
 </ul>
-<br><br>
+<br>
 
 Classical scholars such as al Tabari, Ibn Kathir, al Razi and al Qurtubi confirm these verses refer to the Scriptures available in Muhammad’s time — the same Scriptures Christians have today. Archaeology (Dead Sea Scrolls, Codex Sinaiticus) confirms their preservation long before Islam. <br><br>
 Thus the Islamic Dilemma: <br><br>
