@@ -34,9 +34,11 @@ draft: false
 - [Dance of Life Podcast](https://www.danceoflife.com/p/share-my-work)
 - [BLK SHP Bible](https://www.youtube.com/@blkshpbible)
 - [BLK SHP Bible — Books & Substack](https://blkshpbible.com/)
-- [Wise Disciple](https://www.youtube.com/@wisedisciple)
+- [Wise Disciple YouTube Channel](https://www.youtube.com/@wisedisciple)
+- [Wise Disciple](https://wisedisciple.org/)
 - [Ear To Hear](https://www.youtube.com/@eartohear)
 - [One for Israel](https://www.oneforisrael.org/)
+- [LIVE FREE with Josh Howerton](https://youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR&si=Dnoe-ovrk2S07ga2)
 
 ## Biblical Archaeology & Historical Evidence
 - [Expedition Bible](https://www.youtube.com/@ExpeditionBible)
