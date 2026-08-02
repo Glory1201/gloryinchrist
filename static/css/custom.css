@@ -40,10 +40,6 @@ nav a {
 img.avatar {
   border: 2px solid red !important;
 }
-a {
-  text-decoration: underline !important;
-  color: #ffffff !important; /* or any colour you prefer */
-}
 
 
 /* ============================
@@ -71,11 +67,10 @@ a {
 .about-card li {
   color: black !important;
 }
-a {
+/* Underline links inside the About Card */
+.about-card a {
   text-decoration: underline !important;
-  color: #ffffff !important; /* or any colour you prefer */
 }
-
 /* Indented unordered lists inside About Card */
 .about-card ul {
   margin-left: 1.2rem !important;
