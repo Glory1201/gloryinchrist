@@ -37,8 +37,7 @@ Before I close, I want to leave you with two ex Muslims whose testimonies helped
 <a href="https://youtu.be/k0D8Uz4oQck?si=YNwRRm8FU-hVpyvG">Seeking Allah, Finding Jesus – Nabeel Qureshi</a><br>
 <a href="https://www.nabeelqureshi.com/">Nabeel Qureshi Website</a><br><br>
 
-<strong>Shariq Khan</strong> — his honesty and clarity offer a powerful perspective for anyone wrestling with truth.<br><br>
-
+<strong>Shariq Khan</strong> — his honesty and clarity offer a powerful perspective for anyone wrestling with truth.<br>
 <a href="https://youtu.be/Qxbb749wbxM?si=9mg4-w0MnCfP_vhf">Shariq Khan Interview</a><br>
 <a href="https://www.christunderground.org/">Christ Underground</a><br><br>
 
