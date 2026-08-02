@@ -1,6 +1,8 @@
 +++
 title = "Dismantling Islam"
 date = 2026-07-19T13:00:00+01:00
+description = "A respectful but honest examination of the discrepancies within Islam that led me to realise it could not be true, including the Islamic Dilemma and contradictions between the Quran and earlier Scripture, written to help Muslims seeking clarity and truth in Christ."
+tags = ["islamic-dilemma", "ex-muslim", "apologetics", "for-muslims"]
 draft = false
 +++
 
