@@ -2,6 +2,8 @@
 title = "My Testimony: From Islam to Christ"
 date = "2026-07-07T13:00:00+01:00"
 draft = false
+description = "My personal journey from Islam to Christianity, shared to help Muslims who are quietly questioning their faith and seeking truth, hope and freedom in Jesus Christ."
+tags = ["ex-muslim", "testimony", "from-islam-to-christ", "for-muslims", "christianity"]
 +++
 
 <div class="about-card">
