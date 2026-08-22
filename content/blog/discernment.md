@@ -9,7 +9,7 @@ Before I continue, I want to make something very clear: I am a new convert. God 
 So, this blog is not a teaching platform, nor am I claiming any authority to teach. Scripture itself warns us: <br><br>
 “an overseer must be above reproach….He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil.” <strong>— 1 Timothy 3:2-6 (ESV) </strong><br><br>
 My goal is simply to share my testimony, my journey and the truths God has opened my eyes to. If you want solid biblical teaching, please visit my Resources page, where I’ve linked to trusted teachers such as Wise Disciple. Through their content I personally came across a <a href="https://www.logos.com/wisedisciple">Special Offer for Friends of Wise Disciple:</a> 60 day free trial of the Logos Bible software, which includes an AI powered study assistant that helps you connect themes and passages across Scripture. That said, I’m not sponsored — I’m simply sharing what has helped me grow.<br><br>
-<strong>The Call to Discernment</strong>
+<strong>The Call to Discernment</strong><br><br>
 Jesus warned us that many false prophets would arise and lead many astray (Matthew 24:11). They come in sheep’s clothing but inwardly are ravenous wolves, and we must recognise them by their fruits (Matthew 7:15–16). Scripture commands us to test the spirits to see whether they are from God (1 John 4:1). <br><br>
 When we compare Jesus to Muhammed — Yahweh to Allah — the difference in their fruits becomes clear.<br><br>
 Jesus teaches us to love not only our friends and family but even those who hate us (1 John 4:7–12). In contrast, Muhammed taught his followers in Sura 9:29 to “fight those… among the People of the Book” until they submit to Islamic rule. To be clear, the vast majority of Muslims today do not interpret or practise these verses literally. Historically, however, this passage formed part of early Islamic expansion, and in modern times it has been misused by extremist groups to justify violence. <br><br>
@@ -18,7 +18,7 @@ Jesus invites us into adoption as children of God (Galatians 4:4–7), whilst Mu
 This was further reinforced when Muhammad married Zaynab, the former wife of Zayd — the man Muhammad had previously adopted as his son before adoption was abolished (Sura 33:37). <br><br>
 But my goal here is not to compel you to leave Islam with nowhere to go. My goal is to point you to Jesus, who says: <br><br>
 “Come to me, all who labour and are heavy laden, and I will give you rest.”  <strong>—  Matthew 11:28 (ESV)</strong><br><br>
-<strong>God Is Already Working in You</strong>
+<strong>God Is Already Working in You</strong><br><br>
 If you’ve made it this far as a Muslim and you’re genuinely questioning Islam, then know this: <strong>God is already softening your heart toward Him.</strong> Scripture says: <br><br>
 “that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him, having the eyes of your hearts enlightened…” — Ephesians 1:17–18 (ESV) <br><br>
 Our struggle with sin is real, and Scripture tells us why: <strong>God’s law is written on our hearts</strong>, what we would call the conscience. This truth echoes through both the Old and New Testaments: <br><br>
