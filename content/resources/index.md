@@ -16,6 +16,8 @@ draft: false
 - [Gabriel Said Reynolds](https://www.gabrielsaidreynolds.com/)
 - [Christ Underground](https://www.christunderground.org/)
 - [Christian Prince](https://thechristianprince.com/)
+- [Islam, The Untold Story - Tom Holland](https://youtu.be/K2JdTrZO1To?si=snLLnOJ-j_e_7_dc)
+- [The ENTIRE History Of Islam And Muhammad In 68 Minutes](https://www.youtube.com/live/gBIjURJmk6s?si=rfaO4HFmmBSEtasm)
 
 ## Bible Learning & Animated Theology
 - [BibleProject](https://bibleproject.com/)
