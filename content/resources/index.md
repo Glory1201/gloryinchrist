@@ -25,12 +25,12 @@ draft: false
 - [Deep Made Simple](https://www.youtube.com/@deepmadesimple)
 
 ## Apologetics & Christian Ministries
-- [Wes Huff](https://www.wesleyhuff.com/)
 - [Apologetics Canada](https://apologeticscanada.com/)
 - [Answers in Genesis](https://answersingenesis.org/)
 - [Cross Examined — Christian Apologetics Ministry](https://crossexamined.org/)
 - [Off the Kirb Ministries](https://www.youtube.com/@ChristianPrinceDebate)
 - [Sean McDowell](https://www.youtube.com/@Acts17Apologetics)
+- [The4Points.com](https://the4points.com/uk/index.php)
     
 ## Bible Study & Christian History
 - [Dance of Life Podcast](https://www.danceoflife.com/p/share-my-work)
@@ -38,6 +38,7 @@ draft: false
 - [BLK SHP Bible — Books & Substack](https://blkshpbible.com/)
 - [Wise Disciple YouTube Channel](https://www.youtube.com/@wisedisciple)
 - [Wise Disciple](https://wisedisciple.org/)
+- [Wes Huff](https://www.wesleyhuff.com/)
 - [Ear To Hear](https://www.youtube.com/@eartohear)
 - [One for Israel](https://www.oneforisrael.org/)
 - [LIVE FREE with Josh Howerton](https://youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR&si=Dnoe-ovrk2S07ga2)
