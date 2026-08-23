@@ -15,6 +15,8 @@ draft: false
 - [Exploring the Quran and the Bible](https://www.youtube.com/@exploringthequranandthebible)
 - [Gabriel Said Reynolds](https://www.gabrielsaidreynolds.com/)
 - [Christ Underground](https://www.christunderground.org/)
+- [CIRA International](https://cirainternational.com/)
+- [Pfander Center Website](pfandercenter.org)
 - [Christian Prince](https://thechristianprince.com/)
 - [Islam, The Untold Story - Tom Holland](https://youtu.be/K2JdTrZO1To?si=snLLnOJ-j_e_7_dc)
 - [The ENTIRE History Of Islam And Muhammad In 68 Minutes](https://www.youtube.com/live/gBIjURJmk6s?si=rfaO4HFmmBSEtasm)
@@ -41,6 +43,7 @@ draft: false
 - [Wes Huff](https://www.wesleyhuff.com/)
 - [Ear To Hear](https://www.youtube.com/@eartohear)
 - [One for Israel](https://www.oneforisrael.org/)
+- [WTC Theology](http://www.youtube.com/@WTCTheology)
 - [LIVE FREE with Josh Howerton](https://youtube.com/playlist?list=PLk-gIybirb94bgwkcweCIuQ3HwSAUFCBR&si=Dnoe-ovrk2S07ga2)
 
 ## Biblical Archaeology & Historical Evidence
