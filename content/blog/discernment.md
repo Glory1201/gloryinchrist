@@ -3,7 +3,7 @@ title = "A Call to Spiritual Discernment and understanding God’s sovereignty"
 date = 2026-08-23T00:05:00+01:00
 draft = false
 description = "A call to spiritual discernment for Christians and Muslims, explaining God’s sovereignty, comparing the fruits of Jesus and Muhammad, and showing how Scripture helps us understand history, Islam, and the hope found only in Christ."
-tags = ["SpiritualDiscernment", "IslamAndChristianity", "GodsSovereignty"]
+tags = ["Spiritual-Discernment", "For-Muslims", "Gods-Sovereignty"]
 +++
 
 <div class="about-card">
@@ -40,7 +40,7 @@ Western Europe was entering what historians call the Dark Ages (590–1050 AD)
 As the <a href="https://www.worldhistory.org/Silk_Road/">World History Encyclopedia</a> shows, the Silk Road operated from 130 BC until 1453 AD, when the fall of Constantinople in 1453 placed its key routes under Ottoman control. This disruption forced Europeans to seek new sea routes, directly initiating the <strong>Age of Discovery (1453–1660 AD)</strong>. Within decades, explorers began charting new sea routes — and Christianity travelled with them. Missionaries went out on these journeys, bringing the gospel to places that had never heard it before, including West Africa, East Africa, India, Southeast Asia and eventually the Americas. This spread of Christianity happened alongside the difficult realities of colonial power and exploitation. Yet even in the midst of these human events, God was at work — using both global change and sincere missionary conviction to carry the good news across the world.<br><br>
 Furthermore, since <a href="https://www.tutorchase.com/notes/ap/european-history/2-4-2-habsburg-struggles-against-ottomans-and-protestants">Ottoman military pressure forced Charles V</a> to focus on defending Europe rather than crushing the early reformers, creating unexpected space for the Reformation to grow. In that sense, it could even be argued that without Islamic expansion, Protestantism may not have had the breathing room to survive.<br><br>
 If you have time, please watch this video by BLKSHP Podcasts (who is already listed in my resources page): <strong><a href="https://youtu.be/YHEzW3oJKsc?si=6PV1eJcr9yo9Gebd">How Did Israel Take Canaan So Easily? (The Untold Chapter of Joshua's Conquest)</a></strong><br><br>
-The video is  in history and beautifully illustrates God working in this way.<br><br>
+The video is grounded in history and beautifully illustrates God working in this way.<br><br>
 <strong>A Final Word to Christians and Muslims</strong><br><br>
 We are living in very strange times — an era of information overload, AI, cultural anxiety and understandable fear about Islam’s growth in the West. Many people, both Christians and non Christians, feel genuine concern about how increasing Muslim populations might shape future cultural or legal debates, including conversations around Sharia law. These fears are real and I fully understand why they exist. Even so, Christians must remember something essential: <strong>God is sovereign and always in control.</strong><br><br>
 This does not mean that God forces anyone to sin. Rather, in His wisdom He sometimes allows human choices — and even human evil — to run their course. Scripture shows that God may permit certain events not because He approves of them, but because He can bring about a greater good through them, even when we cannot yet see how. <br><br>
