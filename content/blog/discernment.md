@@ -14,16 +14,16 @@ Jesus warned us that many false prophets would arise and lead many astray (Matth
 When we compare Jesus to Muhammed — Yahweh to Allah — the difference in their fruits becomes clear.<br><br>
 Jesus teaches us to love not only our friends and family but even those who hate us (1 John 4:7–12). In contrast, Muhammed taught his followers in Sura 9:29 to “fight those… among the People of the Book” until they submit to Islamic rule. To be clear, the vast majority of Muslims today do not interpret or practise these verses literally. Historically, however, this passage formed part of early Islamic expansion, and in modern times it has been misused by extremist groups to justify violence. <br><br>
 Jesus invites us into adoption as children of God (Galatians 4:4–7), whilst Muhammed (and Allah) explicitly removed adoption from Islamic law: <br><br> 
-“Allah has not made your adopted sons your [real] sons… call them by [the names of] their fathers.” — Sura 33:4–5<br><br>
+<i>“Allah has not made your adopted sons your [real] sons… call them by [the names of] their fathers.” — Sura 33:4–5</i><br><br>
 This was further reinforced when Muhammad married Zaynab, the former wife of Zayd — the man Muhammad had previously adopted as his son before adoption was abolished (Sura 33:37). <br><br>
 But my goal here is not to compel you to leave Islam with nowhere to go. My goal is to point you to Jesus, who says: <br><br>
-“Come to me, all who labour and are heavy laden, and I will give you rest.”  —  Matthew 11:28 (ESV)<br><br>
+<i>“Come to me, all who labour and are heavy laden, and I will give you rest.”  —  Matthew 11:28 (ESV)</i><br><br>
 <strong>God Is Already Working in You</strong><br><br>
 If you’ve made it this far as a Muslim and you’re genuinely questioning Islam, then know this: God is already softening your heart toward Him. Scripture says: <br><br>
-“that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him, having the eyes of your hearts enlightened…” — Ephesians 1:17–18 (ESV) <br><br>
+<i>“that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him, having the eyes of your hearts enlightened…” — Ephesians 1:17–18 (ESV)</i><br><br>
 Our struggle with sin is real, and Scripture tells us why: God’s law is written on our hearts, what we would call the conscience. This truth echoes through both the Old and New Testaments: <br><br>
-“I will put my law within them, and I will write it on their hearts.” — Jeremiah 31:33 (ESV) <br>
-“The work of the law is written on their hearts…” — Romans 2:15 (ESV)<br><br>
+<i>“I will put my law within them, and I will write it on their hearts.” — Jeremiah 31:33 (ESV)</i> <br><br>
+<i>“The work of the law is written on their hearts…” — Romans 2:15 (ESV)</i><br><br>
 We all feel the burden of never being good enough — falling into sin repeatedly and trying to earn salvation through our own works — but the good news is that <strong>God is the one working in us. </strong><br><br>
 God Himself promises to give us a new heart and a new spirit (Ezekiel 36:26). He shines His light into our hearts to reveal the glory of Christ (2 Corinthians 4:6). If you have stumbled across this site, it is no accident. It is not my job to change your heart — I am simply one of many tools God uses. <strong>The work of transformation is a gift only God can give.</strong>
 Through my testimony, I hope you can see that every painful or confusing step was held in God’s hands when He first sowed the seed.He was always in control — the Gardener who tends our hearts and makes us righteous. <br><br>
