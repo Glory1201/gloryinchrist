@@ -2,6 +2,8 @@
 title = "A Call to Spiritual Discernment and understanding God’s sovereignty"
 date = 2026-08-23T00:05:00+01:00
 draft = false
+description = "A call to spiritual discernment for Christians and Muslims, explaining God’s sovereignty, comparing the fruits of Jesus and Muhammad, and showing how Scripture helps us understand history, Islam, and the hope found only in Christ."
+tags = ["SpiritualDiscernment", "IslamAndChristianity", "GodsSovereignty"]
 +++
 
 <div class="about-card">
