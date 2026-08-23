@@ -9,6 +9,7 @@ draft: false
 ## Testimony & Conversion Stories
 - [Nabeel Qureshi — Seeking Allah, Finding Jesus](https://www.youtube.com/watch?v=k0D8Uz4oQck)
 - [Shariq Khan — Ex-Muslim Testimony](https://youtu.be/Qxbb749wbxM?si=9mg4-w0MnCfP_vhf)
+- [From Burka to Born-Again - My Salvation Story | Ayaan Hirsi Ali](https://youtu.be/zeK6rQ3aWI8?si=H-TJGUuJ4kX8Q4Bb)
 - [Lee Strobel — The Case for Christ](https://www.youtube.com/watch?v=67uj2qvQi_k)
 
 ## Islam & Christianity
@@ -52,5 +53,6 @@ draft: false
 ## Documentaries
 - [The God Who Speaks](https://www.youtube.com/watch?v=xuDCLqjYZZU&t=3101s)
 - [American Gospel: Christ Alone](https://www.youtube.com/watch?v=bUOLt99JnAk)
+- [Truth Rising | Full Documentary](https://youtu.be/XXc5IhgSZkg?si=krP8tYRGBJNsy5-p)
 - [Three Scientists on the Origins of Everything](https://youtu.be/JW9gcjpt89o?si=Asps7vFFf9A2Xwps)
 - [The Story of Everything (2026) Trailer](https://youtu.be/pwL3ZKlwEoc?si=ILf6SYtOPMff7ZZk)
