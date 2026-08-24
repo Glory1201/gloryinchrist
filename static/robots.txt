@@ -1,0 +1,16 @@
+# Allow all beneficial crawlers (search engines + AI systems)
+User-agent: *
+Allow: /
+
+# Block harmful scrapers
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
