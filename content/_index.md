@@ -18,7 +18,7 @@ they comfort me.”
 
 <br><br>
 
-A quiet space for Muslims exploring Christianity, the Bible and the hope found in Jesus Christ.  
+A simple space for Muslims exploring Jesus, Scripture and the truth of the gospel.
 You can read my writing in the <a href="/blog/">Blog section</a> and explore the teachers, ministries and resources that helped me on my journey on the <a href="/resources/">Resources page</a>.
 
 <br><br>
