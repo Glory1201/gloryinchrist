@@ -1,8 +1,11 @@
 +++
 title = "Why Good Deeds Cannot Save Us: The Real Problem of Sin"
-date = 2026-08-30T09:00:00+01:00
+date = "2026-08-30T09:00:00+01:00"
 draft = false
+description = "A biblical exploration of sin, the fall, and why good deeds cannot save us — written especially for Muslims and seekers wrestling with questions of morality, death and salvation."
+tags = ["sin", "christian-apologetics", "for-muslims", "fall-of-man", "original-sin", "christianity"]
 +++
+
 
 <div class="about-card">
  
