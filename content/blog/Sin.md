@@ -97,11 +97,11 @@ As Christians, we are not under the law, because Christ — the ultimate sacrifi
 
 As I continued to study Islam, I realised something that I could no longer ignore. <br>
 
-Islam teaches that this life is a test and if your good deeds exceed the bad according to Islamic doctrine, then you will may enter heaven but only Allah knows and so the underlying message is simple: <br>
+Islam teaches that humankind is born morally capable and can attain righteousness through obedience. A person’s good deeds must outweigh their bad in order to enter heaven — though even then, there is no assurance, for entrance ultimately depends on Allah’s will. On the surface this may seem harmless, but the underlying message is clear:<br>
 
 <i>“You can earn your salvation through your own good works — you can save yourself.”</i> <br>
 
-But this is the same lie the serpent told in the garden: you can be like God; you do not need Him. It is also why Islam struggles to explain the world we experience through our senses — that deep feeling that something is not quite right, the love we have for our friends and family and the instinct to sacrifice ourselves for others. <br>
+This is the same spiritual pattern we see in Eden: the serpent’s lie that humanity can stand on its own, shape its own destiny and reach righteousness apart from God. It is the ancient promise of self‑achievement, repackaged. Yet this view struggles to explain the world we actually experience — the deep sense that something is not quite right, the love we have for our families, and the instinct to sacrifice ourselves for others. These things point beyond self‑effort to a relational God whose love is eternal and personal.<br>
 
 In Islam, Allah is understood to be one in every possible sense — a solitary unity with no plurality of persons. But if God is eternally alone, then He cannot be eternally loving in the way Yahweh is. Love requires relationship. The God of the Bible has always existed as Father, Son and Holy Spirit — an eternal communion of love. This is why Christians can say that love is not merely something God does; it is who He is. <br>
 
@@ -109,11 +109,13 @@ Interestingly, Muslims do believe strongly in predestination, though not in the 
 
 <i>“All is from Allah.”</i> <br>
 
-Classical Islamic theology interprets this to mean that everything — including human actions, whether good or evil — ultimately comes from Allah’s decree. In Christianity, however, the picture is very different. Scripture teaches that Satan tempts, and God may allow temptation for His purposes, but God Himself never tempts anyone to do evil. <br>
+Classical Islamic theology understands this to mean that everything — including human actions, whether good or evil — ultimately comes from Allah’s decree. This theme appears again in Islam’s teaching about Jesus. Surah 4:157–158 states that Jesus was not crucified; instead, Allah made it appear as though He was, raising Him up to Himself. In other words, Allah allowed a false perception — a form of divine deception — which aligns with the Quranic language describing Allah as the one who “schemes” or “outwits” (makr).<br>
+
+This stands in sharp contrast to the God of the Bible, who cannot lie, cannot deceive, and whose nature is perfect truth. Scripture teaches that Satan tempts, and God may permit temptation for His purposes, but God Himself never tempts anyone to do evil:<br>
 
 <i>“Let no one say when he is tempted, “I am being tempted by God,” for God cannot be tempted with evil, and he himself tempts no one.  But each person is tempted when he is lured and enticed by his own desire. Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death.”</i> <strong>—James 1:13–15 (ESV)</strong><br>
 
-This difference becomes even clearer in Islam’s teaching about Jesus. According to Surah 4:157–158, Jesus was not crucified; instead, Allah made it appear as though He was, raising Him up to Himself. In other words, Allah allowed a false perception — a form of divine deception — which aligns with the Quranic language describing Allah as the one who “schemes” or “outwits” (makr). This stands in sharp contrast to the God of the Bible, who cannot lie, cannot deceive and whose nature is perfect truth — the God who is truly worthy of our worship. <br>
+And this difference truly matters. Research among hundreds of former Muslims — recorded in The Dark Side of Islam by Abdul Saleeb and R.C. Sproul (Crossway, 2003) — found that the greatest factor drawing them to Christ was the Christian assurance of salvation through relationship with God. It stands in stark contrast to the uncertainty built into any worldview (not only Islam) where righteousness depends on human effort — always fragile, always shifting, and never guaranteed.<br>
 
 The world around us reminds us daily that something is not as it should be. And this is precisely why the Christian explanation of sin, death and redemption fits the world we actually live in — a world where love is real, sacrifice is meaningful, and our hearts recognise that something has gone terribly wrong and must be put right by God Himself, not by our own efforts. This truth is unique to Christianity, where the gospel assures us that God has not left us in our brokenness. In Christ, the story does not end with sin or death, but with redemption, restoration and everlasting life. <br>
 
