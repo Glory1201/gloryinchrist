@@ -29,7 +29,7 @@ In Genesis 1:27–31, we are told that God created humanity in His own image —
 
 From this we see the original design: even the animals were vegetarian — including even the dinosaurs — because this was before the fall. <br>
 
-This brings us back to Brian, the atheist. He recognised that his desire to be vegetarian was inconsistent with his worldview, yet when asked why his response was “Because it just doesn’t feel right to me.” When you read the creation narrative, it becomes clear why: Because it wasn’t part of God’s original design that was etched in our heart. <br>
+This brings us back to Brian, the atheist. He recognised that his desire to be vegetarian was inconsistent with his worldview, yet when asked why, he simply said, “Because it just doesn’t feel right to me.” As Christians, the reason is clear. When we read the creation narrative, we see that this instinct reflects something deeper — a memory of God’s original design, etched into the human heart.<br>
 
 This inner moral awareness — even in those who deny God — leads us back to the first moral command ever given, the moment when God Himself set the standard. <br>
 
