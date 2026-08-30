@@ -3,7 +3,9 @@ title = "Why Good Deeds Cannot Save Us: The Real Problem of Sin"
 date = 2026-08-30T09:00:00+01:00
 draft = false
 +++
+
 <div class="about-card">
+ 
 I promised that in my next post I would be addressing the problem of sin, but before diving in, I wanted to begin with a thought that formed during a walk yesterday with my husband and our dog “Poppy” through the wooded area of our local park. As we wandered beneath the trees, I spent the time reflecting on how best to approach this post. The woods were peaceful — quiet and still beneath the light rain, aside from our springer spaniel’s sudden bursts through the undergrowth. Yet even then, we felt a deeper silence inviting us to linger in prayer and listen for God’s response.<br><br>
  
 Before our walk, we had watched a video from Joe at Off the Kirb Ministries: <a href="https://youtu.be/JGDskQdkSN8?si=Ns8Szd__wkWbO_Vz"><strong>When God Tests You: You'll Notice These Signs</strong></a>. Given the devastating flood in Nepal — where my sister in law and her family live — the message felt especially timely. I had already planned to write about the problem of sin after my last post, but as I write this, I ask anyone reading to pray for those who lost their lives, that in their final moments they may have found Christ. To also pray for those who survived, that they may find comfort, strength and hope in the days ahead. If you are going through a season of difficulty, then please do watch Joe’s video. <br>
