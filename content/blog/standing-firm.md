@@ -1,6 +1,6 @@
 +++
 title = "Standing Firm in Truth: A Call to Rooted Faith in an Age of Deception"
-date = "2026-09-06T20:30:00+01:00"
+date = "2026-09-06T18:00:00+01:00"
 draft = false
 description = "A call to remain rooted in Scripture in an age of deception — exploring Islam’s growth, the Book of Life, sound theology, and the need for deep, enduring faith, written especially for Muslims, seekers, and those navigating the cost of following Christ."
 tags = ["Christian-Apologetics", "For-Muslims", "Spiritual-Discernment", "Gods-Sovereignty", "Islamic-Dilemma", "Ex-Muslim", "From-Islam-to-Christ", "Christian-Doctrine"]
