@@ -11,11 +11,9 @@ In my previous post, I said that I was excited to begin a deeper exploration int
 
 I always enjoyed the stories my dad would tell me about Krishna and the Hindu gods. Although he did not believe in them, he was curious about where these stories came from. I was curious too. And this brings us to one of the most surprising discoveries I made in Scripture: the reality of God’s heavenly council. <br>
 
-The Bible teaches that God’s world is far richer and more layered than we often imagine. It speaks not only of the physical realm we see, but also of a spiritual realm filled with beings God created long before humanity. This idea may sound unusual at first, but hear me out, as the entire storyline of the Bible becomes clearer — and many ancient myths suddenly make sense. <br>
+<strong>God’s Heavenly Council</strong><br>
 
-<strong>God’s Heavenly Family</strong><br>
-
-The Bible teaches that the one true God has a heavenly council — a group of spiritual beings often referred to as the “sons of God”. God created them, just as He created humans, but they are spiritual rather than physical. In some ways they resemble the angels spoken about in Islam and even share certain similarities with the Muslim understanding of jinn. But there is one crucial difference: in Scripture, these spiritual beings have free will — and some chose to rebel against God. <br>
+The Bible teaches that God’s world is far richer and more layered than we often imagine. It speaks not only of the physical realm we see, but also of a spiritual realm filled with beings God created long before humanity. These beings form what Scripture calls God’s heavenly council — the “sons of God”. They are spiritual rather than physical, similar in some ways to the angels spoken of in Islam and even sharing certain traits with the Muslim understanding of jinn. But there is one crucial difference: in the Bible, these spiritual beings have free will — and some chose to rebel against God. Once you see this, the entire storyline of Scripture becomes clearer, and many ancient myths suddenly make sense.<br>
 
 <strong>The Rebellion Before the Flood</strong><br>
 
@@ -68,6 +66,7 @@ Genesis 3:15 may not directly teach the virgin birth, but it certainly hints tow
 Isaiah, however, provides a more explicit prophecy:<br>
 
 <i> “The virgin shall conceive and bear a son, and shall call his name Immanuel (‘God with us’)” </i>  <strong>— Isaiah 7:14 </strong><br>
+
 What makes this even more remarkable is that Isaiah wrote this over 700 years before Jesus’ birth, which is exactly what the New Testament writers point towards <i>(Matthew 1:22–23; Galatians 4:4)</i>.<br>
 
 So hopefully by now, I have been able to show why humankind needed the Messiah to defeat the fallen powers and reclaim the nations for God, just as the prophets like Isaiah foretold.<br>
@@ -80,11 +79,7 @@ His death and resurrection would break the authority of these corrupt powers, fu
 
 A clear example of this is the story of David and Goliath. The Quran briefly mentions David killing Goliath, but it does not explain who Goliath was or why the battle mattered. In the Bible, Goliath is linked to the same rebellious line from Genesis 6 (the Nephilim), which makes David’s victory part of the bigger spiritual conflict running through Scripture. David defeating the giant becomes a picture of Jesus defeating the true enemy of God’s people. It is both history and a sign pointing forward to Christ. Many Old Testament stories work in this same way.<br>
 
-Prophecy is often written in a way that is not fully clear at first. Its meaning becomes obvious only when the promised event actually happens. This is often referred to as “progressive revelation”. And when we look back at the Old Testament after seeing Jesus’ life, death and resurrection, we can see that He fulfils every pattern and every foreshadowing in Scripture. This is one of the main reasons Christians believe He is the promised Redeemer.<br>
-
-<strong>Where the Quran Keeps Only Shadows of These Stories</strong><br>
-
-As I tried to trace the stories of the Bible inside the Quran, I realised that the Quran keeps small fragments of these narratives but without the deeper meaning behind them, as we saw with the example of David and Goliath. There are many similar cases where the story appears in the Quran but the theological purpose is missing. I have written about some of these in earlier posts, and I encourage you to read them. But for now, I want to stay with the main topic — the moment when God disinherits the nations and assigns them to the sons of God <i>(Deuteronomy 32:8–9)</i>.<br>
+Prophecy becomes clear only in hindsight, and when we look back at the Old Testament through the lens of Jesus’ life, death, and resurrection, we see that He fulfils every pattern and foreshadowing God placed in Scripture. Yet when we turn to the Quran, we often find only fragments of these biblical stories—pieces of the narrative without the redemptive meaning they were meant to carry. This contrast becomes especially important as we return to the moment when God disinherits the nations and assigns them to the sons of God <i>(Deuteronomy 32:8–9)</i>, a theme that shapes the biblical worldview and sets the stage for the Tower of Babel.<br>
 
 <strong>The Tower of Babel</strong><br>
 
@@ -112,7 +107,7 @@ So, we can now come full circle. The Bible’s framework — the fall of mankind
 
 Israel, even though chosen by God, often failed to stay faithful. God revealed His name to Moses — Yahweh, “I AM WHO I AM” — a name that sets Him apart from every competing spiritual claim. Yet they worshipped these gods “whom they had not known and whom He had not allotted to them”. <i>(Deuteronomy 29:26)</i>.<br> This exposes the root problem: Israel’s persistent inability to remain faithful through external law alone. God promised something far deeper — He would give them a new heart and a new spirit, removing their heart of stone and placing His own Spirit within them so that they would walk in His statutes <i>(Ezekiel 36:22–28)</i>.<br>
 
-Psalm 82 ends with hope: God will judge the corrupt spiritual rulers and reclaim every nation for Himself. This brings us to the heart of the biblical story: salvation can come only from God as without God’s help Israel fell away time and time again, and this help would have to come from the spirit changing hearts and the New Testament declares that He accomplished this through Jesus Christ.<br>
+This brings us to the heart of the biblical story: salvation can come only from God. External law could never change the human heart, so the rescue had to come through His Spirit — the One who gives a new heart and a new nature. The New Testament declares that God accomplished this through Jesus Christ, and no amount of good works can ever save us.<br>
 
 <strong>Why the Quran Tells a Different Story</strong><br>
 
@@ -161,3 +156,4 @@ Anyone — Christian or not — can appreciate the weight of that statement. If 
 
 So I invite you to read the Bible for yourself. See its story. Follow its thread. Let it speak. And discover, as I did, the God who has been telling the true story of the world from the very beginning. <br>
 </div>
+
