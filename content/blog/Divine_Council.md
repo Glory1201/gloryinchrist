@@ -27,7 +27,7 @@ Their rebellion produced offspring called the Nephilim, described in the Bible a
 
 After the flood, only a few generations after Noah stepped off the ark, people gathered at Babel and rebelled once more, saying: <br>
 
-<i>“Let us build a city and a tower that reaches the heavens. Let us make a name for ourselves”.</i> <strong>— Genesis 11:4)</strong><br>
+<i>“Let us build a city and a tower that reaches the heavens. Let us make a name for ourselves”.</i> <strong>— Genesis 11:4</strong><br>
 
 God confused their language so they could not understand each other, and people spread out across the earth. <br>
 
@@ -37,11 +37,9 @@ Thus, the seventy nations from Babel, according to the number of the sons of God
 
 <strong>The Fallen Rulers of the Nations</strong><br>
 
-So, this is where things become very interesting. The Bible tells us that some of these divine beings turned against God and became corrupt rulers over the nations. They accepted worship for themselves, demanded sacrifices, and created religions that led people away from the true Creator. <br>
+So, this is where things become very interesting. The Bible tells us that some of these divine beings turned against God and became corrupt rulers over the nations. They accepted worship for themselves, demanded sacrifices and created religions that led people away from the true Creator.<br>
 
-Israel, even though chosen by God, often failed to stay faithful. God revealed His name to Moses — Yahweh, “I AM WHO I AM” — a name that sets Him apart from every competing spiritual claim. Yet they worshipped these gods “whom they had not known and whom He had not allotted to them”. <i>(Deuteronomy 29:26)</i>. <br>
-
-Psalm 82 — known in Islam as part of the Zabur — shows God’s judgment on these lesser divine rulers. It pictures God standing in the divine council and condemning them for ruling the nations unjustly: showing favour to the wicked, ignoring the weak and the fatherless, and failing to protect the needy. Instead of guiding the nations under their care, they deceived them and led them away from the truth. <br>
+Psalm 82 paints the picture of God standing in the divine council and condemning them for ruling the nations unjustly: showing favour to the wicked, ignoring the weak and the fatherless, and failing to protect the needy. Instead of guiding the nations under their care, they deceived them and led them away from the truth. <br>
 
 As punishment, God declared: <br>
 
@@ -61,16 +59,15 @@ All of this leads to one key promise God made in Eden: that the “seed” of th
 
 <strong>The Significance of the “Seed”</strong><br>
 
-So, what is meant by the term “seed”? In Hebrew, the word zera (“seed”) is normally used for men. In everyday life, the “seed” is understood to come from the man, which is why many cultures trace the family line through the father. Even science supports this idea, because the father’s genetic contribution determines the biological sex of the child: the mother always provides an X chromosome, while the father provides either X or Y — meaning the male chromosome decides whether the child is male or female.<br>
+So, what is meant by the term “seed”? In Hebrew, the word zera (“seed”) is normally used for men and this is the case in most culture also where the family line is traced through the father. Even science supports this idea, because the father’s genetic contribution determines the biological sex of the child: the mother always provides an X chromosome, while the father provides either X or Y — meaning the male chromosome decides whether the child is male or female.<br>
 
-The Bible speaks about a man’s seed more than a hundred times — but only once about a woman’s seed. This unusual wording in Genesis 3:15 did not go unnoticed by ancient Jewish interpreters. Classical Jewish commentary recognised that zera is almost always associated with the male line and therefore the phrase “her seed” is not just exceptional but deliberate. <br>
+The Bible speaks about a man’s seed more than a hundred times — but only once about a woman’s seed. This unusual wording in Genesis 3:15 did not go unnoticed by ancient Jewish interpreters. Classical Jewish commentary recognised that zera is almost always associated with the male line and therefore the phrase “her seed” is not just exceptional but also appears to be very deliberate. <br>
 
 Genesis 3:15 may not directly teach the virgin birth, but it certainly hints toward a Saviour who would come through the woman in a way that breaks the normal pattern.<br>
 
 Isaiah, however, provides a more explicit prophecy:<br>
 
-“The virgin shall conceive and bear a son, and shall call his name Immanuel (‘God with us’).” <i>(Isaiah 7:14)</i><br>
-
+<i> “The virgin shall conceive and bear a son, and shall call his name Immanuel (‘God with us’)” </i>  <strong>— Isaiah 7:14 </strong><br>
 What makes this even more remarkable is that Isaiah wrote this over 700 years before Jesus’ birth, which is exactly what the New Testament writers point towards <i>(Matthew 1:22–23; Galatians 4:4)</i>.<br>
 
 So hopefully by now, I have been able to show why humankind needed the Messiah to defeat the fallen powers and reclaim the nations for God, just as the prophets like Isaiah foretold.<br>
@@ -101,7 +98,7 @@ And here is an interesting side note: our modern English word “babble” — m
 
 <strong>Coming Back to the Biblical Framework</strong><br>
 
-So, we can now come full circle. The Bible’s framework — the fall of mankind, the cosmic rebellion and the nations turning to other gods <i>(Deuteronomy 32:8–9; Psalm 82)</i> — explains many things at once:<br>
+So, we can now come full circle. The Bible’s framework — the fall of mankind, the cosmic rebellion and the nations turning to other gods— explains many things at once:<br>
 
 <ul>
 <li>where the nations and languages came from</li>
@@ -113,15 +110,17 @@ So, we can now come full circle. The Bible’s framework — the fall of mankind
 <li>and most importantly, why humanity needs a Saviour who is more than a prophet</li>
 </ul>
 
-Psalm 82 ends with hope: God will judge the corrupt spiritual rulers and reclaim every nation for Himself. He began this work through Israel, the family chosen to carry the promise of the Redeemer who would be born of a virgin. This brings us to the heart of the biblical story: salvation can come only from God and the New Testament declares that He accomplished this through Jesus Christ.<br>
+Israel, even though chosen by God, often failed to stay faithful. God revealed His name to Moses — Yahweh, “I AM WHO I AM” — a name that sets Him apart from every competing spiritual claim. Yet they worshipped these gods “whom they had not known and whom He had not allotted to them”. <i>(Deuteronomy 29:26)</i>.<br> This exposes the root problem: Israel’s persistent inability to remain faithful through external law alone. God promised something far deeper — He would give them a new heart and a new spirit, removing their heart of stone and placing His own Spirit within them so that they would walk in His statutes <i>(Ezekiel 36:22–28)</i>.<br>
+
+Psalm 82 ends with hope: God will judge the corrupt spiritual rulers and reclaim every nation for Himself. This brings us to the heart of the biblical story: salvation can come only from God as without God’s help Israel fell away time and time again, and this help would have to come from the spirit changing hearts and the New Testament declares that He accomplished this through Jesus Christ.<br>
 
 <strong>Why the Quran Tells a Different Story</strong><br>
 
 When we compare the biblical framework with the Quranic one, it becomes clear why Christians and Muslims often talk past each other. The two faiths begin from completely different starting points about who God is and what God must do to save humanity. This means the disagreement is not only about Jesus — it is about the human condition itself.<br>
 
-I have written a post explaining the biblical concept of sin called <a href="https://gloryinchrist.pages.dev/blog/sin/">“Why Good Deeds Cannot Save Us: The Real Problem of Sin”</a>. Together, that post and this one show why the Bible teaches that God Himself must enter the world as a man to defeat evil, reclaim the nations, and save humanity through His own death and resurrection — an idea found nowhere else in world religion.<br>
+I have written a post explaining the biblical concept of sin called <a href="https://gloryinchrist.pages.dev/blog/sin/">“Why Good Deeds Cannot Save Us: The Real Problem of Sin”</a>. Together, that post and this one show why the Bible teaches that God Himself must enter the world as a man to defeat evil, reclaim the nations and save humanity through His own death and resurrection — an idea found nowhere else in world religion.<br>
 
-Across many cultures, you may find stories of gods visiting the earth, taking human form, or interacting with people. But none teach that the Creator must step into His own creation to rescue humanity. The Quran does not contain this idea either. Instead, it operates within a completely different theological framework, retelling fragments of biblical stories in simplified form to teach moral lessons about obedience, warning, judgement and submission to God. While the Quran preserves the surface of many stories, it does not preserve the deeper storyline — creation, fall, promise, covenant, Messiah and redemption.<br>
+Across many cultures, you may find stories of gods visiting the earth, taking human form, or interacting with people. But none teach that the Creator must step into His own creation to rescue humanity. The Quran does not contain this idea either. Instead, it operates within a completely different theological framework, retelling fragments of biblical stories in simplified form to teach moral lessons about obedience, warning, judgement and submission to God. <br>
 
 This is why Muslims should ask important questions:<br>
 
