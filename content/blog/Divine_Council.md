@@ -58,6 +58,7 @@ So when it comes to the story of the rebellion in Genesis 6, it isn’t just a s
 Their actions created the Nephilim and filled the world with evil, which led to the flood. But even then, God protected the human line through Noah, who came from the righteous line of Seth. This is why the Bible gives long lists of names and generations. They are not extra details. They show how God kept the family line safe — the line through which the Saviour, Jesus Christ, would come.<br>
 
 All of this leads to one key promise God made in Eden: that the “seed” of the woman would one day defeat the serpent.<br>
+
 <strong>The Significance of the “Seed”</strong><br>
 
 So, what is meant by the term “seed”? In Hebrew, the word zera (“seed”) is normally used for men. In everyday life, the “seed” is understood to come from the man, which is why many cultures trace the family line through the father. Even science supports this idea, because the father’s genetic contribution determines the biological sex of the child: the mother always provides an X chromosome, while the father provides either X or Y — meaning the male chromosome decides whether the child is male or female.<br>
