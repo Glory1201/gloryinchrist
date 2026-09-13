@@ -7,7 +7,7 @@ tags = [ "Christian-Apologetics", "Christian-Doctrine", "Christianity", "For-Mus
 +++
 
 <div class="about-card">
-In my previous post, I said that I was excited to begin a deeper exploration into God’s heavenly kingdom and the divine council — and it is through this post that I hope to finally share the gospel with my father this week. I also recommended an insightful video from BLK SHP Bible Talk called <a href="https://youtu.be/1N4QTO8TjLs?si=cqtNAKa7WAjP9k2g">“What They Didn’t Teach You About Genesis 6”</a>, which is what this post will be primarily drawing from. If you have not watched it yet, I would encourage you to watch it after reading this, as it will help you see the biblical framework more clearly.<br>
+In my previous post, I said that I was excited to begin a deeper exploration into God’s heavenly kingdom and the divine council — and it is through this post that I hope to finally share the gospel with my father this week. I also recommended an insightful video from <strong>BLK SHP Bible Talk</strong> called <a href="https://youtu.be/1N4QTO8TjLs?si=cqtNAKa7WAjP9k2g">“What They Didn’t Teach You About Genesis 6”</a>, which is what this post will be primarily drawing from. If you have not watched it yet, I would encourage you to watch it after reading this, as it will help you see the biblical framework more clearly.<br>
 
 I always enjoyed the stories my dad would tell me about Krishna and the Hindu gods. Although he did not believe in them, he was curious about where these stories came from. I was curious too. And this brings us to one of the most surprising discoveries I made in Scripture: the reality of God’s heavenly council. <br>
 
@@ -27,7 +27,7 @@ Their rebellion produced offspring called the Nephilim, described in the Bible a
 
 After the flood, only a few generations after Noah stepped off the ark, people gathered at Babel and rebelled once more, saying: <br>
 
-<i> “Let us build a city and a tower that reaches the heavens. Let us make a name for ourselves.” (Genesis 11:4)</i><br>
+<i>“Let us build a city and a tower that reaches the heavens. Let us make a name for ourselves”.</i> <strong>— Genesis 11:4)</strong><br>
 
 God confused their language so they could not understand each other, and people spread out across the earth. <br>
 
@@ -45,7 +45,7 @@ Psalm 82 — known in Islam as part of the Zabur — shows God’s judgment on t
 
 As punishment, God declared: <br>
 
-“I said, ‘You are gods, sons of the Most High, all of you; nevertheless, like men you shall die, and fall like any prince.’” <i>(Psalm 82:6–7)</i> <br>
+<i>“I said, ‘You are gods, sons of the Most High, all of you; nevertheless, like men you shall die, and fall like any prince.’”</i> <strong>— Psalm 82:6–7</strong><br>
 
 <strong>Why the Rebellion Matters</strong><br>
 
