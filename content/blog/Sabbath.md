@@ -29,7 +29,7 @@ The Sabbath therefore stands at the intersection of creation and command, remind
 
 As I examined the verses most often cited against seventh day Sabbath observance—and in support of Sunday worship—I realised how easily early teachings had shaped my thinking.That changed when I learned to test everything through the CAAP method: considering the <strong>Context</strong>, <strong>Author</strong>, <strong>Audience</strong> and <strong>Purpose</strong> of each passage.<br><br>
 I began with Colossians 2:<br><br>
-“<i>Therefore let no one pass judgment on you… with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ.</i>” — Colossians 2:16–17 (ESV)<br>
+““<i>Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ.</i>” – Colossians 2:16–17 (ESV)<br><br>
 
 <strong>Colossians 2: Understanding Paul’s Meaning</strong><br>
 
