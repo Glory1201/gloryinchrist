@@ -6,7 +6,6 @@ description = "A devotional apologetic reflection on why Scripture tells the tru
 tags = [ "Christian-Apologetics", "Christian-Doctrine", "Christianity", "For-Muslims", "Ex-Muslim", "From-Islam-to-Christ", "Spiritual-Discernment", "Sin", "Original-Sin", "Spiritual-Warfare", "Heavenly-Council"]
 +++
 
-<div id="post-content">
 <div class="about-card">
 In my previous post, I said that I was excited to begin a deeper exploration into God’s heavenly kingdom and the divine council — and it is through this post that I hope to finally share the gospel with my father this week. I also recommended an insightful video from <strong>BLK SHP Bible Talk</strong> called <a href="https://youtu.be/1N4QTO8TjLs?si=cqtNAKa7WAjP9k2g">“What They Didn’t Teach You About Genesis 6”</a>, which is what this post will be primarily drawing from. If you have not watched it yet, I would encourage you to watch it after reading this, as it will help you see the biblical framework more clearly.<br>
 
@@ -157,5 +156,5 @@ Anyone — Christian or not — can appreciate the weight of that statement. If 
 
 So I invite you to read the Bible for yourself. See its story. Follow its thread. Let it speak. And discover, as I did, the God who has been telling the true story of the world from the very beginning. <br>
 </div>
-</div>
+
 
