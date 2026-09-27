@@ -6,7 +6,7 @@ tags = ["islamic-dilemma", "ex-muslim", "apologetics", "for-muslims"]
 draft = false
 +++
 
-<div id="post-content">
+
 <div class="about-card"> 
 I identified as Muslim for most of my life, but I had never examined Islam from its own sources. My belief was inherited rather than investigated. Everything changed when I began studying the Quran and Hadith directly and listening to debates by Arabic speaking Christian apologists like <a href="https://www.youtube.com/channel/UC7wffWCb-k1F7oEyGMR8TTg" class="button" target="_blank">Christian Prince</a>. Hearing details such as Muhammad marrying Aisha at the age of 6 and consummating the marriage at 9 confronted my own personal experience — even so it was something I could have overlooked if my investigations had found the Quran to be true. Instead, that moment became the catalyst for everything that followed. <br><br>
 To understand Islam, we must understand the world Muhammad was born into. Pre Islamic Arabia was religiously diverse: polytheistic tribes kept 360 idols in the Kaaba, Jews lived especially in Medina and several forms of Christianity had spread across the region. In this environment, the Quran’s content reflects stories and ideas circulating among Jews, Christians and Arabian folklore. Islam emerged in a landscape where narratives were easily blended and adapted. <br>
@@ -49,5 +49,5 @@ Before I close, I want to leave you with two ex Muslims whose testimonies helped
 
 I hope their stories bless you the way they blessed me.
 </div>
-</div>
+
 
