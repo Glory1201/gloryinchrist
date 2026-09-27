@@ -1,0 +1,21 @@
+<button onclick="playArticle()" style="
+  background:#fff;
+  color:#000;
+  padding:10px 16px;
+  border-radius:6px;
+  border:none;
+  cursor:pointer;
+  font-weight:bold;
+  margin-bottom:20px;
+">
+  ▶ Play Audio
+</button>
+
+<script>
+function playArticle() {
+  const content = document.getElementById("post-content").innerText;
+  const utterance = new SpeechSynthesisUtterance(content);
+  utterance.lang = "en-GB";
+  speechSynthesis.speak(utterance);
+}
+</script>
