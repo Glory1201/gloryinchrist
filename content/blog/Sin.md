@@ -6,7 +6,7 @@ description = "A biblical exploration of sin, the fall, and why good deeds canno
 tags = ["sin", "christian-apologetics", "for-muslims", "fall-of-man", "original-sin", "christianity"]
 +++
 
-
+<div id="post-content">
 <div class="about-card">
  
 I promised that in my next post I would be addressing the problem of sin, but before diving in, I wanted to begin with a thought that formed during a walk yesterday with my husband and our dog “Poppy” through the wooded area of our local park. As we wandered beneath the trees, I spent the time reflecting on how best to approach this post. The woods were peaceful — quiet and still beneath the light rain, aside from our springer spaniel’s sudden bursts through the undergrowth. Yet even then, we felt a deeper silence inviting us to linger in prayer and listen for God’s response.<br><br>
@@ -121,4 +121,5 @@ The world around us reminds us daily that something is not as it should be. And 
 
 As you finish reading, may your heart be drawn to the One who loves you, who sees you, and who gave Himself for you. May His peace settle over your thoughts, and may His presence be near to you today. <br>
 
+</div>
 </div>
