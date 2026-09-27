@@ -5,6 +5,8 @@ draft = false
 description = "A testimony of leaving Islam, discovering Christ, and learning to build faith on Scripture alone — exploring discernment, the Sabbath, and the call to rooted, grace-filled obedience."
 tags = ["Christian-Apologetics", "Sabbath", "Ex-Muslim", "From-Islam-to-Christ", "Spiritual-Discernment", "Christian-Doctrine", "For-Muslims"]
 +++
+
+<div id="post-content">
 <div class="about-card">
 <strong>When I chose to leave Islam and follow Christ</strong>, change came quickly. One of the clearest signs was that I was finally able to give up smoking and vaping with ease—a habit I had tried, and repeatedly failed, to break since my mid twenties.<br><br>
 Like many new believers, I expected clarity, confidence and joy to follow, especially as my eagerness to learn grew. Yet becoming a Christian—though the most profound transformation a person can experience—can also be deeply challenging. Alongside my hunger to learn, I wrestled with doubts, old habits and the weight of seeing the world through an entirely new lens.<br><br>
@@ -74,5 +76,6 @@ The Christian life is about knowing our identity in Christ, building strong foun
 For me, the Sabbath simply fits within that journey—a gift of rest that helps me delight in the God who calls me His own.<br><br>
 As I continue to grow, my hope is that anyone new to the faith who visits this site will be strengthened and encouraged. May the Holy Spirit guide them, shape them, and help them build a real and lasting relationship with the Lord. And in my own walk, I pray for courage to share the gospel faithfully — not only through writing, but in everyday conversations. <br><br>
 I’ve been listening to an audiobook by Andy Bannister called <i>"How to Talk About Jesus Without Looking Like an Idiot"</i> — yes, that is in fact the title — and I would encourage every Christian to listen to it. It’s entertainingly put together, but also deeply practical. It has reminded me that evangelism can be gentle and bold at the same time, thoughtful yet confident. My desire is to reach others with the love of Christ, whether through this website or through face‑to‑face encounters, trusting God to open doors and prepare hearts along the way.<br>
+</div>
 </div>
 
