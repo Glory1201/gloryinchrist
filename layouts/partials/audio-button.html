@@ -21,27 +21,44 @@ function loadVoices() {
 speechSynthesis.onvoiceschanged = loadVoices;
 loadVoices();
 
-function getFemaleUKVoice() {
-  return voices.find(v =>
+function getBestFemaleVoice() {
+  // Priority 1: UK Female voices
+  const ukFemale = voices.find(v =>
     v.lang === "en-GB" &&
     (
       v.name.includes("Female") ||
       v.name.includes("Google") ||
       v.name.includes("Serena") ||
-      v.name.includes("Hazel") ||
-      v.name.includes("Samantha")
+      v.name.includes("Hazel")
     )
   );
+  if (ukFemale) return ukFemale;
+
+  // Priority 2: Any female voice
+  const anyFemale = voices.find(v =>
+    v.name.includes("Female") ||
+    v.name.includes("Samantha") ||
+    v.name.includes("Tessa") ||
+    v.name.includes("Susan")
+  );
+  if (anyFemale) return anyFemale;
+
+  // Priority 3: fallback to UK English
+  const ukFallback = voices.find(v => v.lang === "en-GB");
+  if (ukFallback) return ukFallback;
+
+  // Priority 4: absolute fallback
+  return null;
 }
 
 function playArticle() {
   const content = document.getElementById("post-content").innerText;
   utterance = new SpeechSynthesisUtterance(content);
 
-  const femaleVoice = getFemaleUKVoice();
+  const voice = getBestFemaleVoice();
 
-  if (femaleVoice) {
-    utterance.voice = femaleVoice;
+  if (voice) {
+    utterance.voice = voice;
   } else {
     utterance.lang = "en-GB";
   }
