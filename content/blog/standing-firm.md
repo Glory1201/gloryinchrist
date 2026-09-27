@@ -6,6 +6,7 @@ description = "A call to remain rooted in Scripture in an age of deception — e
 tags = ["Christian-Apologetics", "For-Muslims", "Spiritual-Discernment", "Gods-Sovereignty", "Islamic-Dilemma", "Ex-Muslim", "From-Islam-to-Christ", "Christian-Doctrine"]
 +++
 
+<div id="post-content">
 <div class="about-card">
 
 Across my recent writings, I have been exploring the foundations of the Christian faith and the challenges believers face in a world full of competing claims. I have examined why Islam’s teachings cannot account for the identity and mission of Jesus, why the Trinity is essential to understanding God as He truly is, why spiritual discernment is necessary in an age of deception, and why sin is far deeper than outward behaviour — a heart problem only Christ can cure. Together, these posts form a single message: we must be rooted in Scripture, clear about who Jesus is, honest about the human condition, and alert to false gospels that distort the truth. Only a faith grounded in God’s Word can stand firm when confusion rises and the world pulls in many directions. <br>
@@ -97,4 +98,5 @@ As I finish this post, my prayer is simple: that Christ would keep us rooted in 
 
 <strong>To Him be all glory.</strong>
 
+</div>
 </div>
