@@ -30,6 +30,7 @@ draft: false
 ## Apologetics & Christian Ministries
 - [Apologetics Canada](https://apologeticscanada.com/)
 - [Answers in Genesis](https://answersingenesis.org/)
+- [Stonebridge Bible Church](https://www.youtube.com/@stonebridgebible/featured)
 - [Cross Examined — Christian Apologetics Ministry](https://crossexamined.org/)
 - [Off the Kirb Ministries](https://www.youtube.com/@ChristianPrinceDebate)
 - [Sean McDowell](https://www.youtube.com/@Acts17Apologetics)
