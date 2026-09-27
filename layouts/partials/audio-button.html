@@ -12,19 +12,36 @@
 
 <script>
 let utterance;
+let voices = [];
+
+function loadVoices() {
+  voices = speechSynthesis.getVoices();
+}
+
+speechSynthesis.onvoiceschanged = loadVoices;
+loadVoices();
+
+function getFemaleUKVoice() {
+  return voices.find(v =>
+    v.lang === "en-GB" &&
+    (
+      v.name.includes("Female") ||
+      v.name.includes("Google") ||
+      v.name.includes("Serena") ||
+      v.name.includes("Hazel") ||
+      v.name.includes("Samantha")
+    )
+  );
+}
 
 function playArticle() {
   const content = document.getElementById("post-content").innerText;
   utterance = new SpeechSynthesisUtterance(content);
 
-  const voices = speechSynthesis.getVoices();
-  const femaleUK = voices.find(v => 
-    v.lang === "en-GB" && 
-    (v.name.includes("Female") || v.name.includes("Google") || v.name.includes("Serena"))
-  );
+  const femaleVoice = getFemaleUKVoice();
 
-  if (femaleUK) {
-    utterance.voice = femaleUK;
+  if (femaleVoice) {
+    utterance.voice = femaleVoice;
   } else {
     utterance.lang = "en-GB";
   }
