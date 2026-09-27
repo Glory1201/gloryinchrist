@@ -40,7 +40,7 @@ Paul, trained under Gamaliel, almost certainly used this phrase intentionally. H
 When Paul calls these observances “a shadow of the things to come”, he is speaking about the <strong>ceremonial, sacrificial aspects</strong> of the calendar—not the creation rooted Sabbath rest. The seventh day Sabbath predates sin and stands within the Ten Commandments, so Paul’s reference to “sabbaths” addresses their ritual additions, not the weekly day of rest itself.<br><br>
 Paul then warns against spiritual elitism, asceticism and mystical practices that distract from Christ. True growth comes only from holding fast to Him (Colossians 2:18–23). His teaching in Colossians makes it clear that he is addressing the ceremonial system tied to festivals, new moons and Sabbaths—not the creation rooted rhythm of rest.<br><br>
 But Colossians is not the only passage people raise when discussing the Sabbath. <strong>Another verse often referred to is Romans 14:5–6</strong>, where Paul speaks about esteeming one day above another.<br><br>
-“<i>One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind.”<i> — Romans 14:5–6 (ESV)<br>
+“<i>One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind.”</i> — Romans 14:5–6 (ESV)<br>
 
 <strong>Romans 14: A Different Issue Entirely</strong><br>
 
