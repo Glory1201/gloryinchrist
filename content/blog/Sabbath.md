@@ -15,8 +15,8 @@ As my convictions deepened, my sense of isolation deepened with them. I no longe
 <strong>Building My Faith on Scripture</strong><br>
 
 Having been burned once before by an institution shaped by human tradition, I was determined not to fall into the same patterns again. My faith had to be grounded in God’s Word, sound doctrine and a clear understanding of Church history.<br><br>
-I often felt as though I was piecing my faith together from the ground up, learning everything fresh from Scripture rather than from tradition or upbringing. During this season of searching, I began to notice things in the Bible I had never seen before—particularly surrounding the Sabbath. As I read through Exodus and Deuteronomy, I realised that the Sabbath was not merely an Old Testament custom but part of the Ten Commandments themselves, written by God’s own finger on stone.<br><br>
-<i>If the Sabbath is one of the Ten Commandments, why do Christians today no longer keep it? And how did the day of rest move from the seventh day to Sunday?</i><br><br>
+I often felt as though I was piecing my faith together from the ground up, learning everything fresh from Scripture rather than from tradition or upbringing. During this season of searching, I began to notice things in the Bible I had never seen before—particularly surrounding the Sabbath. As I read through Old Testament, I realised that the Sabbath formed part of the Ten Commandments themselves.<br><br>
+<i>So then why do Christians today no longer keep it? And how did the day of rest move from the seventh day to Sunday?</i><br><br>
 I knew I couldn’t simply accept inherited assumptions; I needed to understand it biblically. So, I asked God to guide me as I studied His Word and the history of the early church.<br>
 
 <strong>Rooted in Creation and Command</strong><br>
