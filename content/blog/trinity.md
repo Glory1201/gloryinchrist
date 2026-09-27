@@ -6,6 +6,7 @@ tags = ["trinity", "christian-doctrine", "for-muslims"]
 draft = false
 +++
 
+<div id="post-content">
 <div class="about-card">
 Once my foundations in Islam began to crumble, I found myself in a kind of religious vacuum. I wasn’t merely questioning a few doctrines — the entire framework I had built my life upon was collapsing. For the first time, it seemed entirely plausible that religion might be nothing more than a human construct.<br><br>
 Yet atheism was never an option. I knew too well that the universe was not an accident. If I was going to rebuild my faith, it had to be on truth — not tradition, fear or cultural expectation. I refused to replace one falsehood with another.<br><br>
@@ -38,3 +39,5 @@ So as a follower of Christ, I now see that <strong>God (YHWH) is one in being bu
 I hope to create a resource page with all my recommended sources next, so please do visit it when available. <br><br>
 The Dance of Life podcast did more than help me understand the Trinity. It changed how I read Scripture and how I engage with the Bible as a whole. Tudor Alexander’s teaching had a huge impact on my journey, so I want to share it with you. You can explore his work here: <a href="https://www.danceoflife.com/p/share-my-work"><strong>Dance of Life podcast.</strong></a><br><br>
 I also use <a href="https://www.logos.com/free-edition?msockid=0262b7326586675e3437a1f564396678"><strong>Logos Bible Software</strong></a>, which has been invaluable for reading the Bible in context and understanding its historical and theological depth. It has become one of the most helpful tools in my study of God’s Word. <br>
+</div>
+</div>
