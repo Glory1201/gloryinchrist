@@ -6,6 +6,7 @@ description = "My personal journey from Islam to Christianity, shared to help Mu
 tags = ["ex-muslim", "testimony", "from-islam-to-christ", "for-muslims", "christianity"]
 +++
 
+<div id="post-content">
 <div class="about-card">
 
 I recently watched a <a href="https://youtu.be/F2Pn5ovtX8U" target="_blank">LIVE FREE podcast by Lakepointe Church featuring Dr Frank Turek</a>. When engaging with people of different faiths he emphasised the importance of understanding your audience and the simplest way to do that is by asking either of the following questions:<br>
@@ -56,4 +57,5 @@ Looking back I can now see how every part of my story was preparing me for the t
 
 In my upcoming posts I hope to share the slow and difficult process of dismantling Islam including the online resources that helped me through my journey.
 
+</div>
 </div>
