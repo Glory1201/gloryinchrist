@@ -6,7 +6,7 @@ description = "A call to spiritual discernment for Christians and Muslims, expla
 tags = ["Spiritual-Discernment", "For-Muslims", "Gods-Sovereignty"]
 +++
 
-<div id="post-content">
+
 <div class="about-card">
 Before I continue, I want to make something very clear: I am a new convert. God is still shaping me, correcting me and growing me — and He will continue to do so for the rest of my life. Like every new believer, I am a work in progress. <br><br>
 So, this blog is not a teaching platform, nor am I claiming any authority to teach. Scripture itself warns us: <br><br>
@@ -52,4 +52,4 @@ So, if you are a Christian, do not be afraid of your Muslim neighbours. They are
 <i>“but in your hearts honour Christ the Lord as holy, always being prepared to make a defence to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, having a good conscience…” <strong>— 1 Peter 3:15–16 (ESV) </strong></i> <br><br>
 And if you are a Muslim reading this, please know: I am not here to attack you. I am here to show you why <strong>only Christ can solve the problem of sin</strong> — and I hope to go deeper into this in coming posts. <br><br>
 </div>
-</div>
+
