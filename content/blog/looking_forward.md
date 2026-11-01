@@ -25,7 +25,11 @@ At the time, I knew very little about the origins or history of Islam itself. It
 
 As I reflected on my upbringing, I also came to understand how closely religion and culture can be intertwined. Some of my fondest childhood memories revolve around Ramadan. I remember waking before dawn for suhoor while my mother quietly rose even earlier to prepare food for the family. It was one of the few times when everyone would be awake together before sunrise.
 
-Those memories remain precious because they remind me of my mother and the time we shared as a family. They also helped me understand why many people feel such a deep attachment to Islam. For many, that attachment is not only to a set of beliefs but also to family, community, tradition, and treasured memories that have become woven together.
+Those memories remain precious because they remind me of my mother and the time we shared as a family. They also helped me understand why many people feel such a deep attachment to Islam. For many, faith is inseparable from family, community, tradition, and cherished memories that have become woven together.
+
+Reflecting on this helped me understand why questioning Islam can be so difficult. It is rarely just a matter of changing religious beliefs. It often means re-examining assumptions that are deeply connected to identity, culture, and relationships.
+
+In many ways, that realisation shaped the purpose of this blog.
 
 For those interested in how that journey unfolded, you may find it helpful to read <strong>[My Testimony: From Islam to Christ]( https://gloryinchrist.co.uk/blog/)</strong>, where I explain in more detail how I came to put my trust in Jesus Christ.
 
@@ -52,7 +56,9 @@ This difference between religion as duty and Christianity as a restored relation
 
 So, I guess the point I am making is that Islam often functions as a cultural and communal identity as much as a religion. That was certainly true of me for much of my life, and it is one reason I began examining my beliefs more carefully.
 
-In many ways, this blog is written for people like I once was: cultural Muslims who genuinely want to seek the truth wherever it leads. It is also written for Christians who want to understand and engage with Muslims thoughtfully, sharing the gospel with grace, humility and a sincere desire to point others to Christ.
+In many ways, this blog is written for people like I once was: cultural Muslims who genuinely want to seek the truth wherever it leads. It is also written for Christians who want to understand and engage with Muslims thoughtfully, sharing the gospel with grace, humility, and a sincere desire to point others to Christ.
+
+But if our goal is to point people to Christ, we must first know Him ourselves. This raises an important question: how do we come to know God?
 
 <strong>How Do We Come to Know God?</strong>
 
@@ -72,20 +78,20 @@ After all, when Jesus was asked which commandment was the greatest, He replied:
 >
 > — Mark 12:29–31 (ESV)
 
-If you're a Muslim, you may be thinking right now, "Wait, that's a verse where Jesus says that God is one." And I completely agree with you. In fact, Christians also believe that there is only one God.
+There is no other commandment greater than these.
+
+Yet this passage raises an important question, particularly for Muslim readers. Jesus begins by affirming that God is one. Some may therefore wonder how Christians can affirm God's oneness while also believing in the Father, Son, and Holy Spirit.
 
 One of the biggest misunderstandings many Muslims have about Christianity is that Christians believe in three gods. That is not the case. My article, <strong>[“Understanding the Trinity and Why it matters”]( https://gloryinchrist.co.uk/blog/trinity)</strong> explores in greater detail how Christians believe that God is one Being who exists eternally as three distinct Persons: the Father, the Son, and the Holy Spirit. It also explains how this understanding is progressively revealed throughout Scripture and why this truth is central to the Christian understanding of salvation, worship and God's relationship with humanity.
 
-Earlier I mentioned that following Christ is ultimately about knowing God rather than merely performing religious duties. But how can we love someone we do not truly know? God has revealed Himself through the Scriptures, and the more we seek Him there, the more we come to understand His character, His purposes, and His will. As our knowledge of Him grows, so too does our love for Him.
+Earlier I mentioned that following Christ is ultimately about knowing God rather than merely performing religious duties. But how can we love someone we do not truly know? God has revealed Himself through the Scriptures, and the more we seek Him there, the more we come to understand His character, His purposes, and His will. 
 
-As Proverbs reminds us:
+As our knowledge of God grows, so too does our love for Him. True wisdom comes not from tradition, culture, or human effort, but from God Himself. As Proverbs reminds us:
 
 > For the Lord gives wisdom;
 > from his mouth come knowledge and understanding.
 >
 > — Proverbs 2:6 (ESV)
-
-True wisdom does not come merely from tradition, culture or human effort. It comes from God Himself. As we seek Him through His Word, He grants understanding and opens our eyes to the truth.
 
 I know this because I once believed I could see, yet I was blind. But through His grace, God opened my eyes to who Christ really is.
 
@@ -122,6 +128,8 @@ For me, the question eventually became unavoidable: if God established a sacrifi
 
 Christianity answered that question in a way neither Islam nor modern Rabbinic Judaism could. Christ did not abolish the need for atonement. He fulfilled it.
 
+Yet arriving at that conclusion was not immediate. It emerged through a series of questions that forced me to re-examine what I thought I knew about sin, sacrifice, and forgiveness.
+
 <strong>Questions That Led Me to Christ</strong>
 
 Islam teaches that repentance is sufficient for the forgiveness of sins, yet sacrifice remains deeply embedded in Islamic tradition through Eid al-Adha. This raised an obvious question for me: if God established a sacrificial system, what purpose did it serve?
@@ -134,11 +142,9 @@ The answer cannot be understood apart from the Bible's larger story of redemptio
 
 As I continue this journey, I'm not entirely sure where the next article will lead. 
 
-Looking back, I knew very little about the origins or history of Islam itself. Ironically, years later, the historical evidence surrounding both Christianity and Islam would become one of the most important factors in my search for truth.
+Ironically, one of the subjects that would later have the greatest impact on my search for truth was history itself. As I began examining the historical foundations of both Christianity and Islam, I found myself increasingly persuaded that Christianity rests on far stronger historical grounds.
 
-Having come to believe that God has revealed Himself through history as well as through Scripture, I think it would be worthwhile to explore the historical evidence for the Christian faith in greater depth and to compare it with the historical foundations of Islam.
-
-I touched on this subject briefly in my article, <strong>[Dismantling Islam]( https://gloryinchrist.co.uk/blog/dismantling_islam/)</strong> where I examine some of the historical and theological claims of Islam and explain why I believe Christianity provides a more historically and theologically credible account of God's revelation. Ultimately, my aim is not merely to critique another faith, but to encourage readers to honestly consider the evidence and, above all, the claims of Jesus Christ Himself.
+Having come to believe that God has revealed Himself through history as well as through Scripture, I think it would be worthwhile to explore that evidence in greater depth in future articles. I touched on this subject briefly in my article, <strong>[Dismantling Islam]( https://gloryinchrist.co.uk/blog/dismantling_islam/)</strong> where I examine some of the historical and theological claims of Islam and explain why I believe Christianity provides a more historically and theologically credible account of God's revelation. Ultimately, my aim is not merely to critique another faith, but to encourage readers to honestly consider the evidence and, above all, the claims of Jesus Christ Himself.
 
 For now, I hope this testimony has encouraged you to seek God through His Word, to examine the evidence for yourself, and to remain open to where the truth may lead.
 
