@@ -13,7 +13,7 @@ It's been a little while since my last post.
 
 I'm not entirely sure whether anyone is reading this website apart from search engines and those I've shared it with directly, but writing has helped me study the Bible more faithfully, and the reach of this blog is ultimately in God's hands.
 
-With that in mind, I'd like to begin a series of shorter weekly reflections. These posts will grow out of my ongoing study of Scripture and my journey from Islam to Christ. Some may touch on Islam and the questions that helped shape my own search for truth, while others will simply explore whatever happens to be on my mind at the time through a biblical lens
+With that in mind, I'd like to begin a series of shorter weekly reflections. These posts will grow out of my ongoing study of Scripture and my journey from Islam to Christ. Some may touch on Islam and the questions that shaped my own search for truth, while others will simply reflect on whatever I happen to be studying, learning, or thinking about through a biblical lens.
 
 To restart, I'd like to revisit some of what I once believed as a Muslim and how those beliefs eventually changed.
 
@@ -62,7 +62,7 @@ But if our goal is to point people to Christ, we must first know Him ourselves. 
 
 <strong>How Do We Come to Know God?</strong>
 
-As Christians, we are called to proclaim the gospel and to show the world what it means to follow Christ. And to do this we should desire to grow in our knowledge of God through Scripture, prayer, repentance and obedience to His commands. My article, <strong>[Standing Firm in Truth: A Call to Rooted Faith in an Age of Deception]( https://gloryinchrist.co.uk/blog/standing-firm/)</strong> on my understanding of how Christians can stay deeply rooted in Scripture, and love their neighbour by faithfully proclaiming the unaltered gospel and persevere in Christ regardless of cultural pressure, persecution, or theological compromise.
+As Christians, we are called to proclaim the gospel and show the world what it means to follow Christ. To do that faithfully, we must continually grow in our knowledge of God through Scripture, prayer, repentance, and obedience to His commands. In my article <strong>[Standing Firm in Truth: A Call to Rooted Faith in an Age of Deception]( https://gloryinchrist.co.uk/blog/standing-firm/)</strong>, I explore how Christians can remain deeply rooted in Scripture, faithfully proclaim the gospel, and persevere in Christ despite cultural pressure, persecution, or theological compromise.
 
 After all, when Jesus was asked which commandment was the greatest, He replied:
 
@@ -78,11 +78,9 @@ After all, when Jesus was asked which commandment was the greatest, He replied:
 >
 > — Mark 12:29–31 (ESV)
 
-There is no other commandment greater than these.
-
 Yet this passage raises an important question, particularly for Muslim readers. Jesus begins by affirming that God is one. Some may therefore wonder how Christians can affirm God's oneness while also believing in the Father, Son, and Holy Spirit.
 
-One of the biggest misunderstandings many Muslims have about Christianity is that Christians believe in three gods. That is not the case. My article, <strong>[“Understanding the Trinity and Why it matters”]( https://gloryinchrist.co.uk/blog/trinity)</strong> explores in greater detail how Christians believe that God is one Being who exists eternally as three distinct Persons: the Father, the Son, and the Holy Spirit. It also explains how this understanding is progressively revealed throughout Scripture and why this truth is central to the Christian understanding of salvation, worship and God's relationship with humanity.
+One of the most common misconceptions about Christianity is that Christians believe in three gods. In reality, Christians have always believed there is only one God. My article, <strong>[“Understanding the Trinity and Why it matters”]( https://gloryinchrist.co.uk/blog/trinity)</strong> explores in greater detail how Christians believe that God is one Being who exists eternally as three distinct Persons: the Father, the Son, and the Holy Spirit. It also explains how this understanding is progressively revealed throughout Scripture and why this truth is central to the Christian understanding of salvation, worship and God's relationship with humanity.
 
 Earlier I mentioned that following Christ is ultimately about knowing God rather than merely performing religious duties. But how can we love someone we do not truly know? God has revealed Himself through the Scriptures, and the more we seek Him there, the more we come to understand His character, His purposes, and His will. 
 
@@ -100,17 +98,17 @@ I know this because I once believed I could see, yet I was blind. But through Hi
 >
 > — John 9:39 (ESV)
 
-But understanding who Christ is naturally raises another question: Why did He come? The answer lies in humanity's problem of sin and God's provision of atonement. This was one of the most significant areas where my understanding of Christianity and Islam began to diverge.
+Yet once we understand who Christ is, another question naturally follows: why did He come? The answer lies in humanity's problem of sin and God's provision of atonement. This was one of the most significant areas where my understanding of Christianity and Islam began to diverge.
 
 <strong>Why the Question of Sin and Atonement Matters</strong>
 
 If you have never considered the biblical teaching on the fall of humanity and original sin, I would encourage you to read my article <strong>[Why Good Deeds Cannot Save Us: The Real Problem of Sin](https://gloryinchrist.co.uk/blog/sin/)</strong> before continuing. It provides the foundation for much of what follows. 
 
-This is particularly important for Muslim readers, since the Christian understanding of sin differs significantly from the Islamic perspective, so provides an important insight into these differences.
+This is particularly important for Muslim readers because the Christian understanding of sin differs significantly from the Islamic perspective and provides an important foundation for understanding the differences between the two faiths.
 
 I remember watching a discussion at Speakers' Corner between a Christian and a Muslim on this very subject. The Muslim rejected the idea that sin requires atonement, arguing that God can simply forgive those who repent.
 
-What struck me later is that modern Rabbinic Judaism has largely arrived at a similar conclusion. Following the destruction of the Second Temple in AD 70, the sacrificial system prescribed in the Law of Moses could no longer be practised. As a result, the emphasis shifted towards repentance, prayer and good deeds rather than sacrifices for atonement.
+What struck me later is that modern Rabbinic Judaism has largely arrived at a similar conclusion. Following the destruction of the Second Temple in 70 AD, the sacrificial system prescribed in the Law of Moses could no longer be practised. As a result, the emphasis shifted towards repentance, prayer and good deeds rather than sacrifices for atonement.
 
 Yet when we turn to the Hebrew Scriptures themselves, sacrifice appears to play a central role in God's provision for sin. As Leviticus states:
 
@@ -144,7 +142,7 @@ As I continue this journey, I'm not entirely sure where the next article will le
 
 Ironically, one of the subjects that would later have the greatest impact on my search for truth was history itself. As I began examining the historical foundations of both Christianity and Islam, I found myself increasingly persuaded that Christianity rests on far stronger historical grounds.
 
-Having come to believe that God has revealed Himself through history as well as through Scripture, I think it would be worthwhile to explore that evidence in greater depth in future articles. I touched on this subject briefly in my article, <strong>[Dismantling Islam]( https://gloryinchrist.co.uk/blog/dismantling_islam/)</strong> where I examine some of the historical and theological claims of Islam and explain why I believe Christianity provides a more historically and theologically credible account of God's revelation. Ultimately, my aim is not merely to critique another faith, but to encourage readers to honestly consider the evidence and, above all, the claims of Jesus Christ Himself.
+Having come to believe that God has revealed Himself through history as well as through Scripture, I'd like to explore that evidence in greater depth in future articles. I touched on this subject briefly in my article, <strong>[Dismantling Islam]( https://gloryinchrist.co.uk/blog/dismantling_islam/)</strong> where I examine some of the historical and theological claims of Islam and explain why I believe Christianity provides a more historically and theologically credible account of God's revelation. Ultimately, my aim is not merely to critique another faith, but to encourage readers to honestly consider the evidence and, above all, the claims of Jesus Christ Himself.
 
 For now, I hope this testimony has encouraged you to seek God through His Word, to examine the evidence for yourself, and to remain open to where the truth may lead.
 
