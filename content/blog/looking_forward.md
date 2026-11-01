@@ -27,7 +27,7 @@ As I reflected on my upbringing, I also came to understand how closely religion 
 
 Those memories remain precious because they remind me of my mother and the time we shared as a family. They also helped me understand why many people feel such a deep attachment to Islam. For many, that attachment is not only to a set of beliefs but also to family, community, tradition, and treasured memories that have become woven together.
 
-For those interested in how that journey unfolded, you may find it helpful to read [My Testimony: From Islam to Christ]( https://gloryinchrist.co.uk/blog/), where I explain in more detail how I came to put my trust in Jesus Christ.
+For those interested in how that journey unfolded, you may find it helpful to read <strong>[My Testimony: From Islam to Christ]( https://gloryinchrist.co.uk/blog/)</strong>, where I explain in more detail how I came to put my trust in Jesus Christ.
 
 <strong>From Religious Duty to Knowing God</strong>
 
@@ -35,7 +35,7 @@ Fasting provides a good example of how my understanding began to change. In Isla
 
 As I explored Christianity, I realised that fasting serves a different purpose. In Scripture, it is not a prescribed duty but a voluntary act of self-denial that turns our attention towards God. Hunger reminds us that our deepest need is not physical food, but the God who sustains us. The goal is not simply to go without food, but to seek God more earnestly through prayer and dependence on Him.
 
-I found that both profound and beautiful. The more I have grown in my faith, the more I have realised that following Christ is not ultimately about performing religious duties to please God. It is about knowing Him.
+I found that both profound and beautiful. The more I have grown in my faith, the more I have realised that following Christ is not ultimately about performing religious duties to please God. <strong>It is about knowing Him.</strong>
 
 This difference between religion as duty and Christianity as a restored relationship with God lies at the heart of the gospel. What once felt like an obligation has become a joy, not because of my own strength, but because the Holy Spirit sustains and transforms me.
 
@@ -56,7 +56,7 @@ In many ways, this blog is written for people like I once was: cultural Muslims 
 
 <strong>How Do We Come to Know God?</strong>
 
-As Christians, we are called to proclaim the gospel and to show the world what it means to follow Christ. And to do this we should desire to grow in our knowledge of God through Scripture, prayer, repentance and obedience to His commands. My article, [Standing Firm in Truth: A Call to Rooted Faith in an Age of Deception]( https://gloryinchrist.co.uk/blog/standing-firm/) on my understanding of how Christians can stay deeply rooted in Scripture, and love their neighbour by faithfully proclaiming the unaltered gospel and persevere in Christ regardless of cultural pressure, persecution, or theological compromise.
+As Christians, we are called to proclaim the gospel and to show the world what it means to follow Christ. And to do this we should desire to grow in our knowledge of God through Scripture, prayer, repentance and obedience to His commands. My article, <strong>[Standing Firm in Truth: A Call to Rooted Faith in an Age of Deception]( https://gloryinchrist.co.uk/blog/standing-firm/)</strong> on my understanding of how Christians can stay deeply rooted in Scripture, and love their neighbour by faithfully proclaiming the unaltered gospel and persevere in Christ regardless of cultural pressure, persecution, or theological compromise.
 
 After all, when Jesus was asked which commandment was the greatest, He replied:
 
@@ -74,7 +74,7 @@ After all, when Jesus was asked which commandment was the greatest, He replied:
 
 If you're a Muslim, you may be thinking right now, "Wait, that's a verse where Jesus says that God is one." And I completely agree with you. In fact, Christians also believe that there is only one God.
 
-One of the biggest misunderstandings many Muslims have about Christianity is that Christians believe in three gods. That is not the case. My article, [“Understanding the Trinity and Why it matters”]( https://gloryinchrist.co.uk/blog/trinity) explores in greater detail how Christians believe that God is one Being who exists eternally as three distinct Persons: the Father, the Son, and the Holy Spirit. It also explains how this understanding is progressively revealed throughout Scripture and why this truth is central to the Christian understanding of salvation, worship and God's relationship with humanity.
+One of the biggest misunderstandings many Muslims have about Christianity is that Christians believe in three gods. That is not the case. My article, <strong>[“Understanding the Trinity and Why it matters”]( https://gloryinchrist.co.uk/blog/trinity)</strong> explores in greater detail how Christians believe that God is one Being who exists eternally as three distinct Persons: the Father, the Son, and the Holy Spirit. It also explains how this understanding is progressively revealed throughout Scripture and why this truth is central to the Christian understanding of salvation, worship and God's relationship with humanity.
 
 Earlier I mentioned that following Christ is ultimately about knowing God rather than merely performing religious duties. But how can we love someone we do not truly know? God has revealed Himself through the Scriptures, and the more we seek Him there, the more we come to understand His character, His purposes, and His will. As our knowledge of Him grows, so too does our love for Him.
 
@@ -114,7 +114,7 @@ Yet when we turn to the Hebrew Scriptures themselves, sacrifice appears to play 
 >
 > — Leviticus 17:11 (ESV)
 
-Even more intriguing is a passage found in the [Talmud (Yoma 39b)](https://www.sefaria.org/Yoma.39b?lang=bi), which records that for forty years before the destruction of the Temple, certain signs associated with God's acceptance of the sacrifices ceased to occur, including the scarlet thread no longer turning white. Christians have often noted that this period roughly coincides with the time of Jesus' crucifixion and resurrection.
+Even more intriguing is a passage found in the <strong>[Talmud (Yoma 39b)](https://www.sefaria.org/Yoma.39b?lang=bi)</strong>, which records that for forty years before the destruction of the Temple, certain signs associated with God's acceptance of the sacrifices ceased to occur, including the scarlet thread no longer turning white. Christians have often noted that this period roughly coincides with the time of Jesus' crucifixion and resurrection.
 
 While the Talmud itself does not connect these events to Christ, I found it noteworthy that the very period in which Christians believe the ultimate sacrifice for sin was offered is also remembered in Jewish tradition as a time when the signs associated with the Temple sacrifices apparently ceased.
 
@@ -126,7 +126,7 @@ Christianity answered that question in a way neither Islam nor modern Rabbinic J
 
 Islam teaches that repentance is sufficient for the forgiveness of sins, yet sacrifice remains deeply embedded in Islamic tradition through Eid al-Adha. This raised an obvious question for me: if God established a sacrificial system, what purpose did it serve?
 
-That question forced me to look more carefully at what Scripture teaches about sin, sacrifice and atonement. Is sin simply a matter of wrongdoing that can be forgiven through repentance alone, or does it require God Himself to provide a remedy?
+That question forced me to look more carefully at what Scripture teaches about sin, sacrifice and atonement. Is sin simply a matter of wrongdoing that can be forgiven through repentance alone, <strong>or does it require God Himself to provide a remedy?</strong>
 
 The answer cannot be understood apart from the Bible's larger story of redemption. If that theme is unfamiliar, you may find it helpful to read [Why I Believe the Bible Tells the True Story of the World](https://gloryinchrist.co.uk/blog/divine_council/). 
 
@@ -138,7 +138,7 @@ Looking back, I knew very little about the origins or history of Islam itself. I
 
 Having come to believe that God has revealed Himself through history as well as through Scripture, I think it would be worthwhile to explore the historical evidence for the Christian faith in greater depth and to compare it with the historical foundations of Islam.
 
-I touched on this subject briefly in my article, [Dismantling Islam]( https://gloryinchrist.co.uk/blog/dismantling_islam/) where I examine some of the historical and theological claims of Islam and explain why I believe Christianity provides a more historically and theologically credible account of God's revelation. Ultimately, my aim is not merely to critique another faith, but to encourage readers to honestly consider the evidence and, above all, the claims of Jesus Christ Himself.
+I touched on this subject briefly in my article, <strong>[Dismantling Islam]( https://gloryinchrist.co.uk/blog/dismantling_islam/)</strong> where I examine some of the historical and theological claims of Islam and explain why I believe Christianity provides a more historically and theologically credible account of God's revelation. Ultimately, my aim is not merely to critique another faith, but to encourage readers to honestly consider the evidence and, above all, the claims of Jesus Christ Himself.
 
 For now, I hope this testimony has encouraged you to seek God through His Word, to examine the evidence for yourself, and to remain open to where the truth may lead.
 
