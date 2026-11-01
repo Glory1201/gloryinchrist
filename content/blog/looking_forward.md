@@ -9,8 +9,6 @@ tags = [ "Christian-Apologetics", "Christianity", "Ex-Muslim", "For-Muslims", "F
 
 <div class="about-card">
 
-<strong>Looking Back, Looking Forward: From Islam to Christ</strong>
-
 It's been a little while since my last post.
 
 I'm not entirely sure whether anyone is reading this website apart from search engines and those I've shared it with directly, but writing has helped me study the Bible more faithfully, and the reach of this blog is ultimately in God's hands.
@@ -144,7 +142,7 @@ I touched on this subject briefly in my article, [Dismantling Islam]( https://gl
 
 For now, I hope this testimony has encouraged you to seek God through His Word, to examine the evidence for yourself, and to remain open to where the truth may lead.
 
-My prayer for every reader is that God would bless you, keep you, reveal Himself to you through His Word and lead you into the knowledge of His Son, Jesus Christ. May you know His grace, His truth, and His peace.  – Inspired by Numbers 6:24–26)
+My prayer for every reader is that God would bless you, keep you, reveal Himself to you through His Word and lead you into the knowledge of His Son, Jesus Christ. May you know His grace, His truth, and His peace.  – Inspired by Numbers (6:24–26)
 
 </div>
 
