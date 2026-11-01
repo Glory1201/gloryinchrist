@@ -98,7 +98,7 @@ But understanding who Christ is naturally raises another question: Why did He co
 
 <strong>Why the Question of Sin and Atonement Matters</strong>
 
-If you have never considered the biblical teaching on the fall of humanity and original sin, I would encourage you to read my article [Why Good Deeds Cannot Save Us: The Real Problem of Sin](https://gloryinchrist.co.uk/blog/sin/) before continuing. It provides the foundation for much of what follows. 
+If you have never considered the biblical teaching on the fall of humanity and original sin, I would encourage you to read my article <strong>[Why Good Deeds Cannot Save Us: The Real Problem of Sin](https://gloryinchrist.co.uk/blog/sin/)</strong> before continuing. It provides the foundation for much of what follows. 
 
 This is particularly important for Muslim readers, since the Christian understanding of sin differs significantly from the Islamic perspective, so provides an important insight into these differences.
 
