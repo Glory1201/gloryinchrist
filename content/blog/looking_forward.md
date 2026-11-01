@@ -146,3 +146,5 @@ For now, I hope this testimony has encouraged you to seek God through His Word, 
 
 My prayer for every reader is that God would bless you, keep you, reveal Himself to you through His Word and lead you into the knowledge of His Son, Jesus Christ. May you know His grace, His truth, and His peace.  – Inspired by Numbers 6:24–26)
 
+</div?
+
