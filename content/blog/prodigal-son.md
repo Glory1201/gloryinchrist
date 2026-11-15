@@ -7,6 +7,8 @@ series = "Weekly Reflections"
 tags = ["Christianity", "Christian-Apologetics", "Bible", "Parables", "Prodigal-Son", "Timothy-Keller", "Jesus-Christ", "Gospel", "For-Muslims", "From-Islam-to-Christ", "Testimony"]
 +++
 
+<div class="about-card">
+
 I may have mentioned that I re-subscribed to Audible in previous posts, and at some point I'll have to share a reading list of the audiobooks I've been listening to. This week, however, I wanted to mention <i>The Prodigal God</i> by Timothy Keller.
 
 Funnily enough, it was recommended by Andy Bannister in his audiobook <i>How to Talk About Jesus Without Looking Like an Idiot</i>, another book I would highly recommend.
