@@ -19,7 +19,7 @@ I'll try to provide a brief summary of the book, although I would strongly encou
 
 When people speak about the Prodigal Son, they usually focus exclusively on the younger brother, who rebels against his father, demands his inheritance, leaves home, wastes everything through reckless living, and eventually finds himself broken and destitute. Realising the depth of his failure, he returns home hoping merely to be accepted as a servant. Yet before he can even finish his confession, his father runs to meet him, embraces him, and restores him to the family, holding a feast to celebrate his return.
 
-Yet the parable is not merely about the younger brother, for there are <strong>two lost sons</strong> in this story.
+Yet the parable is not only about the younger brother, for there are <strong>two lost sons</strong> in this story.
 
 Whilst the younger brother is lost through open rebellion, the elder brother is lost through pride and self-righteousness. On the surface he appears faithful, remaining physically close to his father and obeying his commands. Yet beneath this outward obedience he harbours resentment towards his brother and bitterness towards his father's generosity.
 
