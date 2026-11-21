@@ -112,17 +112,49 @@ function buildAnswer(item) {
     return answer;
 }
 
+function similarity(str1, str2) {
+
+    str1 = str1.toLowerCase();
+    str2 = str2.toLowerCase();
+
+    if (str1 === str2) {
+        return 1;
+    }
+
+    const longer =
+        str1.length > str2.length
+            ? str1
+            : str2;
+
+    const shorter =
+        str1.length > str2.length
+            ? str2
+            : str1;
+
+    const matches = shorter
+        .split(" ")
+        .filter(word =>
+            longer.includes(word)
+        )
+        .length;
+
+    return matches /
+        shorter.split(" ").length;
+}
+
 function findBestMatch(question) {
 
-    const search = normalise(question);
+    const lowerQuestion =
+        question.toLowerCase();
 
-    // Pass 1 - Exact keyword match
+    // NEW: Exact match pass first
     for (const item of knowledge) {
 
         for (const keyword of item.keywords) {
 
             if (
-                search === normalise(keyword)
+                lowerQuestion.trim() ===
+                keyword.toLowerCase().trim()
             ) {
 
                 console.log(
@@ -134,6 +166,57 @@ function findBestMatch(question) {
             }
         }
     }
+
+    let bestMatch = null;
+    let bestScore = 0;
+
+    for (const item of knowledge) {
+
+        for (const keyword of item.keywords) {
+
+            const score = similarity(
+                lowerQuestion,
+                keyword.toLowerCase()
+            );
+
+            const keywordWords =
+                keyword.toLowerCase().split(" ");
+
+            const keywordMatch =
+                keywordWords.every(
+                    word =>
+                        lowerQuestion.includes(word)
+                );
+
+            if (score > bestScore) {
+
+                bestScore = score;
+                bestMatch = item;
+            }
+
+            if (
+                keywordMatch &&
+                bestScore < 1
+            ) {
+
+                bestScore = 1;
+                bestMatch = item;
+            }
+        }
+    }
+
+    console.log(
+        "Best Match:",
+        bestMatch?.topic,
+        "Score:",
+        bestScore
+    );
+
+    return bestScore >= 0.75
+        ? bestMatch
+        : null;
+}
+
 
     // Pass 2 - Keyword contained in question
     for (const item of knowledge) {
