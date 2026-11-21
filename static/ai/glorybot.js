@@ -137,6 +137,27 @@ function buildAnswer(item) {
 
 function findBestMatch(question) {
 
+    const stopWords = [
+        "what",
+        "is",
+        "the",
+        "a",
+        "an",
+        "why",
+        "how",
+        "do",
+        "does",
+        "did",
+        "can",
+        "should",
+        "would",
+        "could",
+        "tell",
+        "me",
+        "about",
+        "explain"
+    ];
+
     const search = question
         .toLowerCase()
         .trim()
@@ -156,12 +177,25 @@ function findBestMatch(question) {
 
             // Exact match
             if (search === cleanKeyword) {
+                console.log("Exact match:", item.topic);
                 return item;
             }
 
-            // Count matching words
-            const questionWords = search.split(" ");
-            const keywordWords = cleanKeyword.split(" ");
+            const questionWords = search
+                .split(" ")
+                .filter(word =>
+                    !stopWords.includes(word)
+                );
+
+            const keywordWords = cleanKeyword
+                .split(" ")
+                .filter(word =>
+                    !stopWords.includes(word)
+                );
+
+            if (keywordWords.length === 0) {
+                continue;
+            }
 
             const matches = keywordWords.filter(word =>
                 questionWords.includes(word)
@@ -176,29 +210,17 @@ function findBestMatch(question) {
         }
     }
 
-    return bestScore >= 0.6
+    console.log(
+        "Best Match:",
+        bestMatch?.topic,
+        "Score:",
+        bestScore
+    );
+
+    return bestScore >= 0.5
         ? bestMatch
         : null;
 }
-
-function askBot() {
-
-    const input =
-        document.getElementById("question");
-
-    const question =
-        input.value.trim();
-
-    if (!question) {
-        return;
-    }
-
-    addMessage(
-        "You:",
-        question,
-        "user"
-    );
-
     const item =
         findBestMatch(question);
 
