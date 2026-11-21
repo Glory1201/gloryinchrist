@@ -1,3 +1,38 @@
+const welcomeMessage = `
+Hi, I'm GloryBot! 🤖
+
+<br><br>
+
+Think of me as a very enthusiastic theology student who's still in primary school!
+
+<br><br>
+
+I was created to help you explore the articles and resources on Glory in Christ.
+
+<br><br>
+
+Ask me about:
+
+<ul>
+<li>Jesus</li>
+<li>The Trinity</li>
+<li>Islam</li>
+<li>The Bible</li>
+<li>Salvation</li>
+<li>Church History</li>
+<li>Christian Living</li>
+</ul>
+
+I'm still a baby bot and learning new things with every article added to my knowledge base.
+
+<br><br>
+
+If I don't know an answer yet, don't give up on me!
+
+<br><br>
+
+May God bless you as you seek truth in Christ.
+`;
 let knowledge = [];
 
 fetch("knowledge.json")
