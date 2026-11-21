@@ -35,29 +35,31 @@ May God bless you as you seek truth in Christ.
 `;
 let knowledge = [];
 
+// Load knowledge base
 fetch("knowledge.json")
     .then(response => response.json())
     .then(data => {
         knowledge = data.knowledge;
+        console.log(
+            `Loaded ${knowledge.length} topics`
+        );
+    })
+    .catch(error => {
+        console.error(
+            "Failed to load knowledge base:",
+            error
+        );
     });
 
-function addMessage(sender, text, className) {
-    const chat = document.getElementById("chat");
-
-    const div = document.createElement("div");
-    div.className = className;
-    div.innerHTML = `<strong>${sender}</strong> ${text}`;
-
-    chat.appendChild(div);
-
-    chat.scrollTop = chat.scrollHeight;
-}
-
+// Similar to Python's SequenceMatcher
 function similarity(str1, str2) {
+
     str1 = str1.toLowerCase();
     str2 = str2.toLowerCase();
 
-    if (str1 === str2) return 1;
+    if (str1 === str2) {
+        return 1;
+    }
 
     const longer =
         str1.length > str2.length
@@ -71,10 +73,13 @@ function similarity(str1, str2) {
 
     const matches = shorter
         .split(" ")
-        .filter(word => longer.includes(word))
+        .filter(word =>
+            longer.includes(word)
+        )
         .length;
 
-    return matches / shorter.split(" ").length;
+    return matches /
+        shorter.split(" ").length;
 }
 
 function askBot() {
@@ -83,18 +88,17 @@ function askBot() {
         document.getElementById("question");
 
     const question =
-        input.value.trim();
+        input.value.trim().toLowerCase();
 
-    if (!question) return;
+    if (!question) {
+        return;
+    }
 
     addMessage(
         "You:",
-        question,
+        input.value,
         "user"
     );
-
-    const lowerQuestion =
-        question.toLowerCase();
 
     let found = false;
 
@@ -102,49 +106,70 @@ function askBot() {
 
         for (const keyword of item.keywords) {
 
-            const score =
+            const similarityScore =
                 similarity(
-                    lowerQuestion,
+                    question,
                     keyword.toLowerCase()
                 );
 
             const keywordWords =
-                keyword.toLowerCase().split(" ");
+                keyword
+                    .toLowerCase()
+                    .split(" ");
 
             const keywordMatch =
                 keywordWords.every(
                     word =>
-                        lowerQuestion.includes(word)
+                        question.includes(word)
                 );
 
             if (
-                score > 0.7 ||
+                similarityScore > 0.7 ||
                 keywordMatch
             ) {
 
                 let answer =
                     item.answer;
 
-                if (item.resources) {
+                // Resources
+                if (
+                    item.resources &&
+                    item.resources.length > 0
+                ) {
 
                     answer +=
                         "<br><br><strong>📖 Further Reading:</strong><br>";
 
-                    item.resources.forEach(resource => {
+                    item.resources.forEach(
+                        resource => {
 
-                        answer +=
-                            `<a href="${resource.url}" target="_blank">${resource.title}</a><br>`;
-                    });
+                            answer += `
+                                <a href="${resource.url}"
+                                   target="_blank"
+                                   rel="noopener noreferrer">
+                                   ${resource.title}
+                                </a><br>
+                            `;
+                        }
+                    );
                 }
 
-                if (item.related) {
+                // Related Questions
+                if (
+                    item.related &&
+                    item.related.length > 0
+                ) {
 
                     answer +=
-                        "<br><br><strong>🤔 Related Questions:</strong><ul>";
+                        "<br><br><strong>🤔 You may also be interested in:</strong><ul>";
 
-                    item.related.forEach(q => {
-                        answer += `<li>${q}</li>`;
-                    });
+                    item.related.forEach(
+                        relatedQuestion => {
+
+                            answer +=
+                                `<li>${relatedQuestion}</li>`;
+                        }
+                    );
 
                     answer += "</ul>";
                 }
@@ -160,14 +185,16 @@ function askBot() {
             }
         }
 
-        if (found) break;
+        if (found) {
+            break;
+        }
     }
 
     if (!found) {
 
         addMessage(
             "Bot:",
-            "I'm still learning and don't know the answer to that question yet.",
+            "I'm sorry, I don't have an answer for that question yet. I'm still learning! Please try asking something else.",
             "bot"
         );
     }
