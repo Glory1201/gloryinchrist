@@ -19,8 +19,6 @@ Ask me about:
 <li>Islam</li>
 <li>The Bible</li>
 <li>Salvation</li>
-<li>Church History</li>
-<li>Christian Living</li>
 </ul>
 
 I'm still a baby bot and learning new things with every article added to my knowledge base.
@@ -35,76 +33,81 @@ May God bless you as you seek truth in Christ.
 `;
 let knowledge = [];
 
-// Load knowledge base
 fetch("knowledge.json")
     .then(response => response.json())
     .then(data => {
+
         knowledge = data.knowledge;
+
         console.log(
-            `Loaded ${knowledge.length} topics`
-        );
-    })
-    .catch(error => {
-        console.error(
-            "Failed to load knowledge base:",
-            error
+            "Knowledge loaded:",
+            knowledge.length
         );
     });
+function addMessage(sender, text, className) {
+    const chat = document.getElementById("chat");
 
-// Similar to Python's SequenceMatcher
-function similarity(str1, str2) {
+    const div = document.createElement("div");
+    div.className = className;
+    div.innerHTML = `<strong>${sender}</strong> ${text}`;
 
-    str1 = str1.toLowerCase();
-    str2 = str2.toLowerCase();
+    chat.appendChild(div);
 
-    if (str1 === str2) {
-        return 1;
+    chat.scrollTop = chat.scrollHeight;
+}
+
+function normalize(text) {
+    return text
+        .toLowerCase()
+        .replace(/[^\w\s]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+}
+
+function similarity(text, keyword) {
+    const stopWords = new Set([
+        "a", "an", "the", "is", "are", "was", "were",
+        "what", "who", "where", "when", "why", "how",
+        "do", "does", "did", "can", "of", "to", "in",
+        "on", "for", "and", "between"
+    ]);
+
+    const words = text => normalize(text)
+        .split(" ")
+        .filter(word => word && !stopWords.has(word));
+
+    const questionWords = new Set(words(text));
+    const keywordWords = new Set(words(keyword));
+
+    if (questionWords.size === 0 || keywordWords.size === 0) {
+        return 0;
     }
 
-    const longer =
-        str1.length > str2.length
-            ? str1
-            : str2;
+    let overlap = 0;
+    for (const word of questionWords) {
+        if (keywordWords.has(word)) overlap++;
+    }
 
-    const shorter =
-        str1.length > str2.length
-            ? str2
-            : str1;
-
-    const matches = shorter
-        .split(" ")
-        .filter(word =>
-            longer.includes(word)
-        )
-        .length;
-
-    return matches /
-        shorter.split(" ").length;
+    return (2 * overlap) / (questionWords.size + keywordWords.size);
 }
 function askBot() {
-
-    console.log("askBot called");
-
-    console.log("Knowledge:", knowledge);
-    console.log("Length:", knowledge.length);
 
     const input =
         document.getElementById("question");
 
     const question =
-        input.value.trim().toLowerCase();
+        input.value.trim();
 
-    console.log("Question:", question);
-
-    if (!question) {
-        return;
-    }
+    if (!question) return;
 
     addMessage(
         "You:",
-        input.value,
+        question,
         "user"
     );
+
+    const lowerQuestion =
+        question.toLowerCase();
 
     let found = false;
 
@@ -112,32 +115,49 @@ function askBot() {
 
         for (const keyword of item.keywords) {
 
-            const similarityScore =
+            const score =
                 similarity(
-                    question,
+                    lowerQuestion,
                     keyword.toLowerCase()
                 );
 
             const keywordWords =
-                keyword
-                    .toLowerCase()
-                    .split(" ");
+                keyword.toLowerCase().split(" ");
 
             const keywordMatch =
                 keywordWords.every(
                     word =>
-                        question.includes(word)
+                        lowerQuestion.includes(word)
                 );
 
+            console.log(
+                "Question:",
+                lowerQuestion
+            );
+
+            console.log(
+                "Keyword:",
+                keyword
+            );
+
+            console.log(
+                "Score:",
+                score
+            );
+
+            console.log(
+                "Keyword Match:",
+                keywordMatch
+            );
+
             if (
-                similarityScore > 0.7 ||
+                score > 0.7 ||
                 keywordMatch
             ) {
 
                 let answer =
                     item.answer;
 
-                // Resources
                 if (
                     item.resources &&
                     item.resources.length > 0
@@ -149,35 +169,28 @@ function askBot() {
                     item.resources.forEach(
                         resource => {
 
-                            answer += `
-                                <a href="${resource.url}"
-                                   target="_blank"
-                                   rel="noopener noreferrer">
-                                   ${resource.title}
-                                </a><br>
-                            `;
+                            answer +=
+                                `<a href="${resource.url}" target="_blank">${resource.title}</a><br>`;
                         }
                     );
                 }
 
-                // Related Questions
                 if (
                     item.related &&
                     item.related.length > 0
                 ) {
 
                     answer +=
-                        "<br><br><strong>🤔 You may also be interested in:</strong><ul>";
+                        "<br><br><strong>🤔 Related Questions:</strong><ul>";
 
-                    item.related.forEach(
-                        relatedQuestion => {
+                    item.related.forEach(q => {
 
-                            answer +=
-                                `<li>${relatedQuestion}</li>`;
-                        }
-                    );
+                        answer +=
+                            `<li>${q}</li>`;
+                    });
 
-                    answer += "</ul>";
+                    answer +=
+                        "</ul>";
                 }
 
                 addMessage(
@@ -200,10 +213,19 @@ function askBot() {
 
         addMessage(
             "Bot:",
-            "I'm sorry, I don't have an answer for that question yet. I'm still learning! Please try asking something else.",
+            "I'm still learning and don't know the answer to that question yet.",
             "bot"
         );
     }
 
     input.value = "";
 }
+
+document
+    .getElementById("question")
+    .addEventListener("keypress", function (e) {
+
+        if (e.key === "Enter") {
+            askBot();
+        }
+    });
