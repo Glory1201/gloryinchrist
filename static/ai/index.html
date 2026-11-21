@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GloryBot</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        #chat {
+            border: 1px solid #ccc;
+            padding: 15px;
+            min-height: 400px;
+            margin-bottom: 10px;
+            overflow-y: auto;
+        }
+
+        .user {
+            color: blue;
+            margin: 10px 0;
+        }
+
+        .bot {
+            color: green;
+            margin: 10px 0;
+        }
+
+        input {
+            width: 80%;
+            padding: 10px;
+        }
+
+        button {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>🤖 GloryBot</h1>
+
+<div id="chat"></div>
+
+<input
+    type="text"
+    id="question"
+    placeholder="Ask a question..."
+>
+<button onclick="askBot()">Send</button>
+
+<script src="glorybot.js"></script>
+
+</body>
+</html>
