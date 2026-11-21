@@ -137,8 +137,10 @@ function buildAnswer(item) {
 
 function findBestMatch(question) {
 
-    const lowerQuestion =
-        question.toLowerCase().trim();
+    const search = question
+        .toLowerCase()
+        .trim()
+        .replace(/[^\w\s]/g, "");
 
     let bestMatch = null;
     let bestScore = 0;
@@ -147,73 +149,36 @@ function findBestMatch(question) {
 
         for (const keyword of item.keywords) {
 
-            const lowerKeyword =
-                keyword.toLowerCase().trim();
+            const cleanKeyword = keyword
+                .toLowerCase()
+                .trim()
+                .replace(/[^\w\s]/g, "");
 
-            // EXACT MATCH
-            if (lowerQuestion === lowerKeyword) {
-
-                console.log(
-                    "Exact match:",
-                    item.topic
-                );
-
+            // Exact match
+            if (search === cleanKeyword) {
                 return item;
             }
 
-            // QUESTION CONTAINS ENTIRE KEYWORD
-            if (
-                lowerQuestion.includes(lowerKeyword)
-            ) {
+            // Count matching words
+            const questionWords = search.split(" ");
+            const keywordWords = cleanKeyword.split(" ");
 
-                if (90 > bestScore) {
+            const matches = keywordWords.filter(word =>
+                questionWords.includes(word)
+            ).length;
 
-                    bestScore = 90;
-                    bestMatch = item;
-                }
-            }
+            const score = matches / keywordWords.length;
 
-            // ALL KEYWORD WORDS FOUND
-            const keywordWords =
-                lowerKeyword.split(" ");
-
-            const keywordMatch =
-                keywordWords.every(word =>
-                    lowerQuestion.includes(word)
-                );
-
-            if (keywordMatch && 80 > bestScore) {
-
-                bestScore = 80;
-                bestMatch = item;
-            }
-
-            // FUZZY MATCH
-            const score =
-                similarity(
-                    lowerQuestion,
-                    lowerKeyword
-                );
-
-            if (
-                score > 0.5 &&
-                score * 50 > bestScore
-            ) {
-
-                bestScore = score * 50;
+            if (score > bestScore) {
+                bestScore = score;
                 bestMatch = item;
             }
         }
     }
 
-    console.log(
-        "Best match:",
-        bestMatch?.topic,
-        "Score:",
-        bestScore
-    );
-
-    return bestMatch;
+    return bestScore >= 0.6
+        ? bestMatch
+        : null;
 }
 
 function askBot() {
