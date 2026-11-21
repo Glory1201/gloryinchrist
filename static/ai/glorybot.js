@@ -91,7 +91,8 @@ function similarity(text, keyword) {
     return (2 * overlap) / (questionWords.size + keywordWords.size);
 }
 function askBot() {
-
+console.log("askBot running");
+console.log("Knowledge items:", knowledge.length);
     const input =
         document.getElementById("question");
 
