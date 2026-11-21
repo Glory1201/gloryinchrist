@@ -217,7 +217,7 @@ function findBestMatch(question) {
         bestScore
     );
 
-    return bestScore >= 0.5
+    return bestScore >= 0.75
         ? bestMatch
         : null;
 }
