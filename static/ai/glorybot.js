@@ -19,18 +19,12 @@ Ask me about:
 <li>Islam</li>
 <li>The Bible</li>
 <li>Salvation</li>
-<li>Church History</li>
-<li>Christian Living</li>
 </ul>
 
 I'm still a baby bot and learning new things with every article added to my knowledge base.
-
 <br><br>
-
 If I don't know an answer yet, don't give up on me!
-
 <br><br>
-
 May God bless you as you seek truth in Christ.
 `;
 let knowledge = [];
