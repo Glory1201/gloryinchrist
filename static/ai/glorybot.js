@@ -21,25 +21,33 @@ Ask me about:
 <li>Salvation</li>
 </ul>
 
-I'm still a baby bot and learning new things with every article added to my knowledge base.
+I'm still a baby bot and learning new things with every article added to my knowledge base, so if don't know an answer yet, don't give up on me! 
+
 <br><br>
-If I don't know an answer yet, don't give up on me!
-<br><br>
-May God bless you as you seek truth in Christ.
+
+May God bless you as you seek truth in Christ.🙏
 `;
+
 let knowledge = [];
 
 fetch("knowledge.json")
     .then(response => response.json())
     .then(data => {
         knowledge = data.knowledge;
+        console.log(`Loaded ${knowledge.length} topics`);
+    })
+    .catch(error => {
+        console.error("Failed to load knowledge base:", error);
     });
 
 function addMessage(sender, text, className) {
+
     const chat = document.getElementById("chat");
 
     const div = document.createElement("div");
+
     div.className = className;
+
     div.innerHTML = `<strong>${sender}</strong> ${text}`;
 
     chat.appendChild(div);
@@ -48,27 +56,164 @@ function addMessage(sender, text, className) {
 }
 
 function similarity(str1, str2) {
-    str1 = str1.toLowerCase();
-    str2 = str2.toLowerCase();
 
-    if (str1 === str2) return 1;
+    const stopWords = [
+        "what",
+        "is",
+        "the",
+        "a",
+        "an",
+        "why",
+        "how",
+        "do",
+        "does",
+        "did",
+        "can",
+        "should",
+        "would",
+        "could",
+        "tell",
+        "me",
+        "about",
+        "explain"
+    ];
 
-    const longer =
-        str1.length > str2.length
-            ? str1
-            : str2;
+    const words1 = str1
+        .toLowerCase()
+        .split(/\s+/)
+        .filter(word => !stopWords.includes(word));
 
-    const shorter =
-        str1.length > str2.length
-            ? str2
-            : str1;
+    const words2 = str2
+        .toLowerCase()
+        .split(/\s+/)
+        .filter(word => !stopWords.includes(word));
 
-    const matches = shorter
-        .split(" ")
-        .filter(word => longer.includes(word))
-        .length;
+    if (words1.length === 0 || words2.length === 0) {
+        return 0;
+    }
 
-    return matches / shorter.split(" ").length;
+    const matches = words2.filter(word =>
+        words1.includes(word)
+    ).length;
+
+    return matches / words2.length;
+}
+
+function buildAnswer(item) {
+
+    let answer = item.answer;
+
+    if (item.resources && item.resources.length > 0) {
+
+        answer +=
+            "<br><br><strong>📖 Further Reading:</strong><br>";
+
+        item.resources.forEach(resource => {
+
+            answer += `
+                <a href="${resource.url}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    ${resource.title}
+                </a><br>
+            `;
+        });
+    }
+
+    if (item.related && item.related.length > 0) {
+
+        answer +=
+            "<br><br><strong>🤔 Related Questions:</strong><ul>";
+
+        item.related.forEach(question => {
+            answer += `<li>${question}</li>`;
+        });
+
+        answer += "</ul>";
+    }
+
+    return answer;
+}
+
+function findBestMatch(question) {
+
+    const lowerQuestion =
+        question.toLowerCase().trim();
+
+    let bestMatch = null;
+    let bestScore = 0;
+
+    for (const item of knowledge) {
+
+        for (const keyword of item.keywords) {
+
+            const lowerKeyword =
+                keyword.toLowerCase().trim();
+
+            // EXACT MATCH
+            if (lowerQuestion === lowerKeyword) {
+
+                console.log(
+                    "Exact match:",
+                    item.topic
+                );
+
+                return item;
+            }
+
+            // QUESTION CONTAINS ENTIRE KEYWORD
+            if (
+                lowerQuestion.includes(lowerKeyword)
+            ) {
+
+                if (90 > bestScore) {
+
+                    bestScore = 90;
+                    bestMatch = item;
+                }
+            }
+
+            // ALL KEYWORD WORDS FOUND
+            const keywordWords =
+                lowerKeyword.split(" ");
+
+            const keywordMatch =
+                keywordWords.every(word =>
+                    lowerQuestion.includes(word)
+                );
+
+            if (keywordMatch && 80 > bestScore) {
+
+                bestScore = 80;
+                bestMatch = item;
+            }
+
+            // FUZZY MATCH
+            const score =
+                similarity(
+                    lowerQuestion,
+                    lowerKeyword
+                );
+
+            if (
+                score > 0.5 &&
+                score * 50 > bestScore
+            ) {
+
+                bestScore = score * 50;
+                bestMatch = item;
+            }
+        }
+    }
+
+    console.log(
+        "Best match:",
+        bestMatch?.topic,
+        "Score:",
+        bestScore
+    );
+
+    return bestMatch;
 }
 
 function askBot() {
@@ -79,7 +224,9 @@ function askBot() {
     const question =
         input.value.trim();
 
-    if (!question) return;
+    if (!question) {
+        return;
+    }
 
     addMessage(
         "You:",
@@ -87,77 +234,18 @@ function askBot() {
         "user"
     );
 
-    const lowerQuestion =
-        question.toLowerCase();
+    const item =
+        findBestMatch(question);
 
-    let found = false;
+    if (item) {
 
-    for (const item of knowledge) {
-
-        for (const keyword of item.keywords) {
-
-            const score =
-                similarity(
-                    lowerQuestion,
-                    keyword.toLowerCase()
-                );
-
-            const keywordWords =
-                keyword.toLowerCase().split(" ");
-
-            const keywordMatch =
-                keywordWords.every(
-                    word =>
-                        lowerQuestion.includes(word)
-                );
-
-            if (
-                score > 0.7 ||
-                keywordMatch
-            ) {
-
-                let answer =
-                    item.answer;
-
-                if (item.resources) {
-
-                    answer +=
-                        "<br><br><strong>📖 Further Reading:</strong><br>";
-
-                    item.resources.forEach(resource => {
-
-                        answer +=
-                            `<a href="${resource.url}" target="_blank">${resource.title}</a><br>`;
-                    });
-                }
-
-                if (item.related) {
-
-                    answer +=
-                        "<br><br><strong>🤔 Related Questions:</strong><ul>";
-
-                    item.related.forEach(q => {
-                        answer += `<li>${q}</li>`;
-                    });
-
-                    answer += "</ul>";
-                }
-
-                addMessage(
-                    "Bot:",
-                    answer,
-                    "bot"
-                );
-
-                found = true;
-                break;
-            }
-        }
-
-        if (found) break;
+        addMessage(
+            "Bot:",
+            buildAnswer(item),
+            "bot"
+        );
     }
-
-    if (!found) {
+    else {
 
         addMessage(
             "Bot:",
@@ -168,3 +256,21 @@ function askBot() {
 
     input.value = "";
 }
+
+document
+    .getElementById("question")
+    .addEventListener("keypress", function (e) {
+
+        if (e.key === "Enter") {
+            askBot();
+        }
+    });
+
+window.onload = function () {
+
+    addMessage(
+        "GloryBot:",
+        welcomeMessage,
+        "bot"
+    );
+};
