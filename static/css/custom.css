@@ -162,3 +162,88 @@ footer {
 .sidebar a:hover {
   text-decoration: underline;
 }
+/* GloryBot Container */
+.glorybot-container {
+  max-width: 900px;
+  margin: 80px auto;
+  padding: 20px;
+}
+
+/* Chat window */
+#chat {
+  background: white;
+  color: black;
+
+  min-height: 400px;
+  padding: 20px;
+
+  border-radius: 12px;
+
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+
+  overflow-y: auto;
+
+  margin-bottom: 15px;
+}
+
+/* Bot messages */
+.bot {
+  background: #f5f5f5;
+  color: black;
+
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+/* User messages */
+.user {
+  background: #e8f0ff;
+  color: black;
+
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+
+  text-align: right;
+}
+#question {
+  width: 80%;
+
+  padding: 12px;
+
+  background: white;
+  color: black;
+
+  border: 1px solid #ccc;
+
+  border-radius: 8px;
+}
+
+#question::placeholder {
+  color: #666;
+}
+button {
+  padding: 12px 18px;
+
+  background: #8b0000; /* matches your avatar border */
+
+  color: white;
+
+  border: none;
+  border-radius: 8px;
+
+  cursor: pointer;
+}
+
+button:hover {
+  background: #a30000;
+}
+#chat,
+#chat p,
+#chat li,
+#chat span,
+.bot,
+.user {
+  color: black !important;
+}
