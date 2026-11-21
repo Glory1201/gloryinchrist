@@ -81,14 +81,20 @@ function similarity(str1, str2) {
     return matches /
         shorter.split(" ").length;
 }
-
 function askBot() {
+
+    console.log("askBot called");
+
+    console.log("Knowledge:", knowledge);
+    console.log("Length:", knowledge.length);
 
     const input =
         document.getElementById("question");
 
     const question =
         input.value.trim().toLowerCase();
+
+    console.log("Question:", question);
 
     if (!question) {
         return;
